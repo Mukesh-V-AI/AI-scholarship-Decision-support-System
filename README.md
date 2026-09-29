@@ -177,17 +177,27 @@ The system implements **SHapley Additive exPlanations (SHAP)**:
 
 ##  Installation & How to Run
 
-### Step 1: Clone or Open Workspace
+### Step 1: Clone the Repository
 ```bash
-cd "d:/responsible ai project"
+git clone https://github.com/Mukesh-V-AI/AI-scholarship-Decision-support-System.git
+cd AI-scholarship-Decision-support-System
 ```
 
-### Step 2: Install Dependencies
+### Step 2: Set up a Virtual Environment (Recommended)
+```bash
+python -m venv venv
+# On Windows:
+venv\Scripts\activate
+# On macOS/Linux:
+source venv/bin/activate
+```
+
+### Step 3: Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### Step 3: Run the Application
+### Step 4: Run the Application
 ```bash
 streamlit run app.py
 ```
@@ -197,15 +207,15 @@ The application will launch automatically in your default browser at: `http://lo
 
 ##  Streamlit Application Page Tour
 
-| Page Number & Name | Key Capabilities |
+| Page Name | Key Capabilities |
 |---|---|
-| **Page 1: Project Overview** | Academic context, Responsible AI principles, end-to-end DSS workflow diagram, synthetic disclaimer banner. |
-| **Page 2: Student Data** | Interactive applicant database, multi-dimensional filters, summary metric cards, distribution histograms, CSV exporter. |
-| **Page 3: AI Assessment** | Live applicant simulator, recommendation confidence, decision-support warning, SHAP factor attribution, 1-click push to committee queue. |
-| **Page 4: Fairness Analysis** | Subgroup audits (Gender, School Type, Location), Fairlearn `MetricFrame` table, Four-Fifths 80% compliance check, error rate charts. |
-| **Page 5: Explainability** | SHAP global beeswarm plot, individual applicant waterfall attribution, plain-language translation, interactive what-if counterfactual slider. |
-| **Page 6: Human Review** | Committee triage queue, accept/override/defer controls, mandatory review justification text, persistent review audit log. |
-| **Page 7: Governance & Accountability** | 8-stage governance lifecycle, NIST AI RMF & EU AI Act mapping, interactive student appeal submission & grievance redressal portal. |
+| **Project Overview** | Academic context, Responsible AI principles, and end-to-end DSS workflow diagram. |
+| **Student Data** | Interactive applicant database, multi-dimensional filters, summary metric cards, distribution histograms, and CSV exporter. |
+| **AI Assessment** | Live applicant simulator, recommendation confidence, decision-support warning, SHAP factor attribution, and 1-click push to committee queue. |
+| **Fairness Analysis** | Subgroup audits (Gender, School Type, Location), Fairlearn `MetricFrame` table, Four-Fifths 80% compliance check, and error rate charts. |
+| **Explainability** | SHAP global beeswarm plot, individual applicant waterfall attribution, plain-language translation, and interactive what-if counterfactual slider. |
+| **Human Review** | Committee triage queue, accept/override/defer controls, mandatory review justification text, and persistent review audit log. |
+| **Governance & Accountability** | 8-stage governance lifecycle, NIST AI RMF & EU AI Act mapping, and interactive student appeal submission & grievance redressal portal. |
 
 ---
 ### License
