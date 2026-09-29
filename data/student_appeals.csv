@@ -1,0 +1,3 @@
+appeal_id,timestamp,student_id,student_name,ground_of_appeal,additional_evidence,status,committee_notes
+APP-2024-001,2024-10-12 14:30:00,SCH-2024042,Kavya Raman,Extenuating family medical crisis impacting semester attendance,Hospital admission records and medical certificate submitted,Under Review,Medical documentation verified with registrar. Assigned to subcommittee.
+APP-2024-002,2024-10-15 11:15:00,SCH-2024108,Deepak Subramanian,Correction in family income documentation (father retired),Updated income certificate and pension statement,Approved on Appeal,Income recalculation confirmed student qualifies for Category A grant.

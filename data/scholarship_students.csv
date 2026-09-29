@@ -1,0 +1,1201 @@
+student_id,name,age,gender,location,school_type,family_income,academic_score,attendance,extracurricular_score,first_generation_student,previous_scholarship,financial_need,composite_score,eligible
+SCH-2024001,Dhruv Randhawa,19,Male,Urban,Private Unaided,480000,97.6,78.9,59.6,1,1,57.6,74.2,0
+SCH-2024002,Aayush Chaudry,19,Female,Semi-Urban,Government,75000,71.0,72.0,58.8,1,0,92.2,81.25,1
+SCH-2024003,Xavier Sandhu,20,Female,Rural,Private Unaided,270000,81.4,80.1,57.8,0,0,68.0,71.12,0
+SCH-2024004,Oscar Zachariah,18,Male,Rural,Private Aided,1000000,87.5,81.2,71.0,1,0,16.7,60.31,0
+SCH-2024005,Vasana Chana,19,Female,Urban,Private Aided,100000,73.8,79.9,71.1,1,0,87.2,81.7,1
+SCH-2024006,Omisha Korpal,21,Male,Rural,Government,210000,66.1,79.5,53.3,1,0,86.3,75.76,0
+SCH-2024007,Neha Babu,20,Male,Urban,Private Aided,155000,63.5,65.4,73.7,0,0,72.3,69.02,0
+SCH-2024008,Neha Sekhon,19,Male,Rural,Government,145000,86.8,81.2,53.7,1,1,91.1,89.76,1
+SCH-2024009,Tristan Mishra,21,Male,Rural,Government,220000,83.7,63.0,54.2,1,0,83.3,78.69,1
+SCH-2024010,Vanya Sarkar,22,Female,Semi-Urban,Private Aided,195000,57.1,65.8,39.1,0,1,71.7,68.22,0
+SCH-2024011,Mekhala Buch,18,Female,Urban,Private Aided,245000,83.1,83.4,36.5,1,0,79.5,77.84,1
+SCH-2024012,Ekaraj Bera,19,Male,Semi-Urban,Private Aided,150000,83.7,89.2,70.9,1,1,82.7,85.98,1
+SCH-2024013,Zaitra Modi,20,Female,Semi-Urban,Private Aided,155000,70.7,73.5,65.5,0,0,75.6,75.7,0
+SCH-2024014,Neha Kumar,19,Female,Rural,Private Aided,85000,88.9,88.0,41.3,0,0,84.7,83.28,1
+SCH-2024015,Krish Raju,20,Female,Rural,Private Aided,220000,75.0,83.0,78.5,0,0,69.4,76.31,0
+SCH-2024016,Sathvik Basak,19,Male,Semi-Urban,Private Unaided,230000,93.2,73.1,55.7,0,0,68.2,77.99,1
+SCH-2024017,Nisha Kaul,21,Male,Urban,Private Unaided,160000,86.3,73.8,83.6,0,1,69.3,79.03,1
+SCH-2024018,Thomas Sane,22,Male,Urban,Private Aided,185000,90.9,78.0,69.2,1,0,81.0,88.3,1
+SCH-2024019,Unni Gill,18,Male,Urban,Private Unaided,465000,88.5,86.5,68.8,0,0,49.4,74.03,0
+SCH-2024020,Sarthak Luthra,19,Female,Urban,Private Unaided,405000,61.5,82.0,68.1,0,0,54.2,63.88,0
+SCH-2024021,Eesha Chanda,21,Female,Rural,Government,105000,65.8,63.7,54.4,1,0,92.8,80.35,1
+SCH-2024022,Anamika Ranganathan,18,Male,Urban,Private Aided,835000,91.0,88.9,70.1,0,0,8.2,57.62,0
+SCH-2024023,Tanmayi Solanki,20,Female,Semi-Urban,Government,70000,91.3,78.8,42.3,1,0,98.0,91.21,1
+SCH-2024024,Mekhala Naidu,20,Female,Urban,Private Unaided,170000,67.0,70.4,47.5,0,0,73.0,69.74,0
+SCH-2024025,Upadhriti Bhandari,19,Female,Semi-Urban,Private Aided,60000,52.3,80.3,78.5,1,1,98.0,75.62,0
+SCH-2024026,Aarnav Saraf,19,Male,Semi-Urban,Government,100000,65.3,78.2,50.3,1,0,96.4,77.33,1
+SCH-2024027,Ojas Kala,19,Male,Urban,Private Aided,150000,78.5,82.9,48.1,0,1,71.6,75.58,0
+SCH-2024028,Ridhi Mani,18,Male,Semi-Urban,Private Unaided,265000,95.5,85.2,56.6,0,0,65.4,79.02,1
+SCH-2024029,Zinal Soman,19,Male,Rural,Private Unaided,1000000,55.2,69.4,72.2,0,0,8.9,41.35,0
+SCH-2024030,Farhan Natarajan,19,Male,Semi-Urban,Government,95000,54.7,83.1,67.2,0,0,77.1,65.4,0
+SCH-2024031,Samaksh Kade,20,Male,Urban,Private Unaided,255000,97.3,69.8,96.3,1,0,73.8,86.62,1
+SCH-2024032,Jalsa Parsa,18,Male,Semi-Urban,Government,85000,72.0,79.4,63.7,1,0,88.6,78.0,1
+SCH-2024033,Frederick Uppal,21,Male,Urban,Private Unaided,105000,97.4,80.5,67.9,0,0,78.2,82.72,1
+SCH-2024034,Netra Ray,20,Male,Urban,Private Aided,160000,64.5,74.5,72.7,1,0,84.8,75.5,0
+SCH-2024035,Garima Patil,23,Male,Semi-Urban,Private Aided,410000,93.8,80.8,72.6,0,0,50.4,71.87,0
+SCH-2024036,Mekhala Sama,19,Female,Semi-Urban,Government,50000,73.6,79.8,65.5,0,0,80.0,80.67,1
+SCH-2024037,Pavani Balakrishnan,22,Male,Rural,Government,130000,56.6,74.2,46.4,1,0,91.8,77.51,1
+SCH-2024038,Aashi Bains,19,Female,Rural,Private Aided,495000,65.9,72.6,28.8,0,0,49.0,57.99,0
+SCH-2024039,Brinda Gill,18,Male,Semi-Urban,Private Aided,230000,87.0,80.4,82.4,1,0,86.6,92.85,1
+SCH-2024040,Alka Modi,21,Female,Rural,Government,245000,73.0,73.6,41.8,0,1,73.3,65.68,0
+SCH-2024041,Rachita Sachar,19,Female,Urban,Private Aided,150000,80.9,84.1,61.6,0,0,68.3,74.49,0
+SCH-2024042,Bhavini Saini,19,Male,Semi-Urban,Government,100000,78.8,71.1,56.8,0,0,79.5,78.18,1
+SCH-2024043,Pavani Kara,20,Female,Rural,Government,70000,68.2,66.4,44.6,1,0,98.0,80.0,1
+SCH-2024044,Rachita Sarma,18,Male,Semi-Urban,Government,175000,91.0,76.3,58.4,0,1,72.4,72.86,0
+SCH-2024045,Faras Rama,20,Female,Semi-Urban,Private Aided,330000,61.0,73.4,72.5,1,0,71.4,68.45,0
+SCH-2024046,Dayamai Goda,19,Female,Rural,Government,60000,76.6,72.5,41.7,1,0,98.0,85.87,1
+SCH-2024047,Arin Krishnan,20,Male,Rural,Government,85000,60.8,70.9,36.0,0,0,86.8,74.39,0
+SCH-2024048,Diya Ghosh,19,Male,Semi-Urban,Government,85000,71.5,73.6,40.6,1,0,93.1,77.83,1
+SCH-2024049,Janani Vohra,19,Male,Rural,Government,125000,87.7,75.6,38.4,0,0,80.8,80.33,1
+SCH-2024050,Bachittar Naidu,19,Female,Urban,Private Aided,235000,53.5,68.6,50.8,1,0,79.9,64.22,0
+SCH-2024051,Lajita Patla,18,Female,Semi-Urban,Government,80000,63.6,80.5,61.9,1,0,86.0,75.32,0
+SCH-2024052,Gautam Mahajan,19,Male,Urban,Private Unaided,445000,92.1,84.0,93.3,1,0,60.9,81.2,1
+SCH-2024053,Azad Vyas,18,Female,Rural,Private Aided,55000,88.1,78.4,72.1,0,0,80.5,79.73,1
+SCH-2024054,Inaya Vaidya,19,Female,Urban,Private Unaided,345000,84.9,84.6,69.5,0,0,52.1,73.71,0
+SCH-2024055,Upasna Venkatesh,18,Male,Semi-Urban,Private Aided,150000,87.3,73.3,42.1,0,0,75.6,75.18,0
+SCH-2024056,Chaman Bail,20,Male,Rural,Private Aided,430000,66.3,72.0,46.6,1,0,68.8,72.47,0
+SCH-2024057,Vritti Chowdhury,20,Male,Rural,Government,120000,76.2,71.7,6.2,1,0,93.8,75.44,0
+SCH-2024058,Victor Lanka,19,Male,Rural,Private Aided,580000,97.7,83.7,63.5,0,1,46.9,76.38,0
+SCH-2024059,Nachiket Sha,19,Male,Urban,Private Unaided,1000000,59.6,69.4,65.9,0,0,5.0,36.72,0
+SCH-2024060,Harshil Mallick,19,Male,Rural,Government,50000,79.3,71.1,45.3,0,1,78.9,74.46,0
+SCH-2024061,Daksh Rajagopal,22,Female,Semi-Urban,Private Aided,110000,76.0,72.2,53.2,1,0,98.0,84.7,1
+SCH-2024062,Naveen Bir,18,Male,Rural,Private Aided,930000,62.8,82.0,10.8,1,0,26.8,44.42,0
+SCH-2024063,Laksh Reddy,18,Female,Urban,Private Unaided,690000,77.1,75.1,66.9,0,1,29.6,60.93,0
+SCH-2024064,Jasmit Nadig,18,Female,Rural,Private Aided,210000,73.0,79.3,38.1,1,0,84.5,76.82,0
+SCH-2024065,Nathan Lala,20,Male,Urban,Private Aided,135000,88.0,70.0,86.0,0,0,73.1,82.24,1
+SCH-2024066,Parth Sankaran,19,Female,Semi-Urban,Government,215000,71.8,65.4,38.2,0,0,68.1,67.14,0
+SCH-2024067,Sanya Devan,21,Female,Urban,Private Unaided,1000000,76.0,73.3,61.3,0,0,5.0,48.04,0
+SCH-2024068,Zashil Sura,18,Female,Rural,Private Unaided,140000,65.6,86.4,79.5,1,0,92.0,85.39,1
+SCH-2024069,Lakshmi Chahal,20,Male,Rural,Private Unaided,515000,66.7,72.6,71.2,1,0,57.0,63.77,0
+SCH-2024070,Yuvraj Vyas,19,Female,Semi-Urban,Government,345000,80.9,78.8,51.2,1,1,68.8,76.34,0
+SCH-2024071,Gaurika Mistry,19,Male,Rural,Private Aided,220000,82.9,90.6,55.2,1,0,86.4,84.13,1
+SCH-2024072,Amol Vohra,20,Male,Rural,Government,55000,67.2,81.2,50.2,1,0,98.0,84.87,1
+SCH-2024073,Rachit Singh,20,Male,Rural,Government,170000,81.5,81.1,44.2,1,0,88.5,85.08,1
+SCH-2024074,Sanya Issac,21,Male,Rural,Private Aided,85000,83.2,72.5,77.7,1,0,95.4,87.69,1
+SCH-2024075,Widisha Nori,19,Male,Rural,Private Aided,90000,68.4,79.4,56.8,0,0,82.0,77.47,1
+SCH-2024076,Zashil Bakshi,19,Male,Urban,Private Unaided,135000,77.1,72.0,80.7,0,1,70.6,71.98,0
+SCH-2024077,Imaran Chokshi,19,Female,Rural,Government,50000,74.2,70.1,60.3,0,0,90.0,77.71,1
+SCH-2024078,Odika Batta,22,Female,Semi-Urban,Government,205000,69.8,66.0,49.3,0,0,68.8,65.45,0
+SCH-2024079,Liam Nadig,20,Female,Rural,Private Unaided,315000,76.2,81.8,84.8,0,1,62.5,74.22,0
+SCH-2024080,Yauvani Chandran,18,Male,Semi-Urban,Private Aided,160000,59.8,76.2,74.4,1,0,86.0,74.52,0
+SCH-2024081,Yatin Randhawa,19,Female,Urban,Private Aided,300000,68.3,54.2,41.2,1,0,71.0,70.25,0
+SCH-2024082,Samar Dada,20,Male,Rural,Private Aided,350000,82.3,81.0,68.2,0,0,64.3,76.79,0
+SCH-2024083,Qasim Rattan,20,Male,Rural,Private Aided,160000,77.0,73.1,64.4,0,0,77.6,78.62,1
+SCH-2024084,Tara De,18,Female,Semi-Urban,Private Unaided,655000,83.1,87.7,71.4,0,1,32.5,67.29,0
+SCH-2024085,Manya Kalla,23,Female,Semi-Urban,Private Unaided,450000,77.7,76.3,61.5,1,0,61.9,71.13,0
+SCH-2024086,Ekapad Batta,19,Male,Rural,Private Aided,250000,73.9,75.7,21.4,0,0,68.1,71.4,0
+SCH-2024087,Rachita Thaman,19,Male,Semi-Urban,Private Aided,295000,71.4,82.6,78.3,1,0,76.8,78.46,1
+SCH-2024088,Pallavi Behl,19,Male,Semi-Urban,Government,180000,59.2,68.5,36.0,0,1,69.0,65.52,0
+SCH-2024089,Nihal Rau,21,Female,Urban,Private Aided,305000,67.0,77.5,66.3,0,0,60.6,67.74,0
+SCH-2024090,Mahika Babu,20,Female,Rural,Government,50000,79.7,73.5,47.7,0,0,89.5,77.72,1
+SCH-2024091,Vasudha Chauhan,19,Female,Rural,Government,425000,81.8,84.6,28.3,1,0,63.7,72.84,0
+SCH-2024092,Chaitanya Deshmukh,18,Male,Rural,Government,145000,94.4,76.3,48.7,0,0,75.8,79.53,1
+SCH-2024093,Nathan Bawa,19,Male,Urban,Private Aided,235000,58.8,83.6,62.1,1,0,80.7,75.51,0
+SCH-2024094,Noah Kari,19,Male,Rural,Private Aided,175000,86.4,82.0,93.1,1,0,86.3,88.21,1
+SCH-2024095,Xiti Ramaswamy,21,Female,Urban,Private Aided,290000,76.4,94.9,54.4,1,0,73.4,78.95,1
+SCH-2024096,Andrew Mangal,18,Male,Rural,Government,200000,87.1,85.4,63.7,1,0,82.4,82.08,1
+SCH-2024097,Nidhi Gole,24,Female,Urban,Private Unaided,375000,62.7,63.9,58.8,0,0,58.4,64.29,0
+SCH-2024098,Saksham Thakkar,20,Female,Semi-Urban,Private Unaided,495000,57.4,62.4,67.2,1,0,59.9,55.91,0
+SCH-2024099,Timothy Sethi,19,Male,Rural,Government,170000,76.7,83.8,35.3,0,1,76.5,74.67,0
+SCH-2024100,Anika Baria,18,Female,Rural,Government,95000,74.5,80.5,22.9,1,0,94.1,79.75,1
+SCH-2024101,Vivaan Naidu,18,Male,Semi-Urban,Private Aided,245000,89.8,78.6,62.5,0,1,67.0,76.74,0
+SCH-2024102,Ira Contractor,19,Male,Rural,Government,100000,65.3,70.8,48.2,1,0,97.4,80.42,1
+SCH-2024103,Kalpit Devan,19,Male,Semi-Urban,Private Aided,115000,74.2,78.2,44.9,1,0,89.8,81.3,1
+SCH-2024104,Janaki Gola,20,Male,Urban,Private Unaided,750000,85.2,76.6,69.1,0,0,24.9,62.44,0
+SCH-2024105,Jasmit Thaker,18,Male,Semi-Urban,Private Aided,365000,76.7,79.2,80.4,1,0,68.1,79.56,1
+SCH-2024106,Vyanjana Sunder,19,Male,Urban,Private Unaided,925000,58.6,73.4,51.5,0,1,5.0,35.99,0
+SCH-2024107,Balendra Nayar,19,Male,Semi-Urban,Private Aided,90000,61.6,74.4,44.1,1,0,90.5,81.26,1
+SCH-2024108,Forum Amble,19,Male,Semi-Urban,Private Aided,100000,64.1,82.7,25.0,1,0,95.8,79.25,1
+SCH-2024109,Rajata Keer,21,Male,Urban,Government,95000,84.6,78.0,58.0,1,1,85.0,83.92,1
+SCH-2024110,Finn Keer,19,Female,Urban,Private Unaided,1000000,76.9,73.6,42.6,0,1,5.0,43.27,0
+SCH-2024111,Arin Bhasin,18,Male,Semi-Urban,Government,235000,84.2,75.6,49.1,1,0,80.4,82.4,1
+SCH-2024112,Tejas Cheema,21,Male,Rural,Government,205000,85.8,77.8,61.5,0,0,71.5,79.05,1
+SCH-2024113,Darsh Dixit,21,Female,Semi-Urban,Government,370000,58.4,75.7,34.8,0,0,55.8,57.15,0
+SCH-2024114,Yashawini Amble,18,Male,Semi-Urban,Private Aided,475000,69.6,77.3,56.0,1,0,56.9,71.59,0
+SCH-2024115,Varenya Vyas,19,Male,Semi-Urban,Private Unaided,485000,84.2,69.3,77.0,1,1,56.7,71.41,0
+SCH-2024116,Chatresh Dewan,18,Female,Rural,Government,75000,75.1,83.0,50.0,1,0,90.9,83.64,1
+SCH-2024117,Reva Shenoy,19,Male,Urban,Private Unaided,340000,82.8,79.3,57.1,0,0,58.6,68.24,0
+SCH-2024118,Radha Mittal,18,Male,Rural,Government,225000,65.7,71.2,22.7,0,0,75.5,66.25,0
+SCH-2024119,Nihal Dora,19,Male,Rural,Private Aided,270000,72.0,69.6,40.9,1,0,74.5,73.77,0
+SCH-2024120,Pranav Mital,19,Female,Semi-Urban,Private Aided,230000,73.6,74.1,63.9,0,0,68.7,70.59,0
+SCH-2024121,Sathvik Lata,19,Male,Urban,Private Unaided,290000,63.9,66.8,62.4,0,0,61.4,63.18,0
+SCH-2024122,Nidhi Sheth,20,Male,Rural,Private Aided,870000,80.5,74.2,65.0,0,0,13.0,51.65,0
+SCH-2024123,Rachana Sarkar,19,Female,Rural,Government,145000,83.8,68.1,36.4,0,0,76.0,73.54,0
+SCH-2024124,Krisha Aurora,20,Female,Semi-Urban,Private Aided,130000,73.5,73.0,49.0,1,0,87.3,78.47,1
+SCH-2024125,Omkaar Dada,20,Female,Semi-Urban,Private Unaided,150000,88.3,83.1,98.0,0,0,71.3,81.52,1
+SCH-2024126,Dalaja Muni,19,Female,Urban,Private Unaided,395000,78.5,75.3,67.8,0,0,50.6,67.36,0
+SCH-2024127,Guneet Sachar,19,Female,Rural,Government,65000,62.0,61.7,85.1,0,0,85.6,70.9,0
+SCH-2024128,Lucky Menon,18,Female,Urban,Private Aided,120000,72.4,77.8,59.5,0,0,74.0,75.07,0
+SCH-2024129,Ati Grewal,20,Female,Rural,Private Aided,190000,60.3,81.5,76.6,1,0,90.8,83.39,1
+SCH-2024130,Saumya Luthra,18,Male,Rural,Private Aided,175000,93.6,82.8,48.3,1,1,84.2,84.56,1
+SCH-2024131,Charita Bumb,19,Male,Semi-Urban,Government,125000,62.8,69.0,63.8,1,1,92.5,76.16,0
+SCH-2024132,Ethan Jaggi,20,Female,Rural,Government,155000,85.6,75.9,48.7,0,0,76.0,79.22,1
+SCH-2024133,Alexander Boase,23,Male,Semi-Urban,Private Aided,120000,95.0,85.1,52.4,0,0,74.8,76.76,0
+SCH-2024134,Falak Virk,19,Male,Urban,Private Aided,225000,90.7,72.6,71.5,1,0,78.4,85.28,1
+SCH-2024135,Onveer Reddy,20,Female,Urban,Private Unaided,205000,72.7,78.1,68.5,0,0,69.8,70.31,0
+SCH-2024136,Gautam Chauhan,21,Female,Semi-Urban,Private Unaided,1000000,82.9,67.3,69.3,0,0,5.0,50.71,0
+SCH-2024137,Chaaya Shankar,20,Male,Rural,Government,170000,69.0,83.0,40.4,1,0,93.7,81.47,1
+SCH-2024138,Sarthak Trivedi,20,Female,Rural,Private Aided,85000,66.3,71.8,42.1,1,0,98.0,78.7,1
+SCH-2024139,Yagnesh Mittal,21,Male,Semi-Urban,Private Aided,400000,70.7,76.8,41.8,0,0,52.1,62.06,0
+SCH-2024140,Lopa Buch,19,Male,Semi-Urban,Private Aided,135000,69.0,75.2,78.3,0,1,76.2,72.4,0
+SCH-2024141,Owen Setty,20,Male,Urban,Private Unaided,300000,52.8,66.1,65.8,0,0,65.0,62.18,0
+SCH-2024142,Rudra Brar,24,Male,Semi-Urban,Private Aided,160000,87.6,86.8,50.8,0,0,80.2,84.85,1
+SCH-2024143,Udyati Narang,18,Female,Rural,Government,80000,57.8,61.1,51.1,1,0,95.0,70.74,0
+SCH-2024144,Ayaan Ramaswamy,21,Male,Rural,Private Aided,100000,76.6,78.4,49.6,1,0,98.0,84.14,1
+SCH-2024145,Zarna Kale,20,Female,Semi-Urban,Government,135000,67.1,68.9,31.9,0,0,76.0,68.13,0
+SCH-2024146,Nihal Sabharwal,19,Male,Semi-Urban,Private Aided,145000,90.4,81.2,36.8,1,0,90.0,85.9,1
+SCH-2024147,Mitesh Dara,18,Male,Urban,Private Unaided,375000,69.4,80.7,53.3,0,0,56.3,61.26,0
+SCH-2024148,Warhi Rao,18,Male,Semi-Urban,Private Unaided,235000,62.8,71.1,59.3,0,0,68.6,68.69,0
+SCH-2024149,Arunima Bala,19,Female,Urban,Private Unaided,510000,90.7,80.2,54.7,1,0,55.6,77.55,1
+SCH-2024150,Harini Krish,19,Female,Semi-Urban,Private Aided,460000,86.9,75.8,55.0,1,0,58.7,72.44,0
+SCH-2024151,Saanvi Seth,18,Female,Urban,Private Unaided,315000,65.4,76.3,67.5,0,0,61.8,65.57,0
+SCH-2024152,Jagdish Wali,19,Male,Rural,Private Aided,435000,92.7,70.2,59.4,0,0,59.4,76.27,0
+SCH-2024153,Farhan Banik,20,Female,Urban,Private Unaided,760000,91.1,85.8,61.2,1,0,31.7,66.79,0
+SCH-2024154,Lavanya Banerjee,18,Male,Semi-Urban,Government,75000,59.9,74.1,52.3,1,0,93.6,78.06,1
+SCH-2024155,Ikbal Karpe,24,Male,Semi-Urban,Government,55000,67.0,74.9,43.2,0,0,85.3,73.49,0
+SCH-2024156,Gayathri Vaidya,18,Male,Rural,Private Aided,590000,84.8,77.4,22.8,0,0,34.0,56.74,0
+SCH-2024157,Harsh Saini,19,Male,Rural,Government,80000,58.7,68.7,11.5,0,0,88.1,70.36,0
+SCH-2024158,Ryan Seshadri,19,Male,Semi-Urban,Private Unaided,510000,74.9,83.9,50.1,0,1,45.1,61.71,0
+SCH-2024159,Urishilla Parikh,18,Male,Rural,Private Aided,60000,67.8,81.1,33.6,0,0,87.2,74.84,0
+SCH-2024160,Warinder Nagar,20,Male,Rural,Private Unaided,215000,74.0,66.3,31.6,0,0,66.2,67.84,0
+SCH-2024161,Ria Bath,23,Female,Semi-Urban,Government,95000,89.9,77.9,61.5,0,0,82.3,84.03,1
+SCH-2024162,Nikita Chakraborty,18,Male,Urban,Private Aided,295000,67.3,76.9,45.0,0,0,60.2,62.84,0
+SCH-2024163,Devika De,18,Female,Rural,Government,195000,77.3,79.9,64.2,1,0,86.2,82.31,1
+SCH-2024164,Anmol Muni,20,Female,Semi-Urban,Private Unaided,250000,93.0,83.3,86.6,0,1,69.7,83.4,1
+SCH-2024165,Upadhriti Rattan,21,Male,Semi-Urban,Private Aided,480000,86.3,84.9,59.9,1,0,63.7,81.16,1
+SCH-2024166,Jack Dasgupta,19,Male,Rural,Government,95000,59.7,75.5,50.6,1,0,95.2,81.73,1
+SCH-2024167,Lajita Sha,20,Female,Rural,Government,95000,74.7,79.4,25.7,1,0,95.4,77.68,1
+SCH-2024168,Neel Chaudhry,18,Female,Rural,Government,200000,72.8,79.1,97.2,1,0,85.6,85.66,1
+SCH-2024169,Upkaar De,18,Male,Rural,Government,110000,93.8,79.1,36.2,1,0,88.4,82.97,1
+SCH-2024170,Chandresh Gupta,22,Male,Semi-Urban,Government,120000,77.8,73.2,54.2,0,0,71.5,70.6,0
+SCH-2024171,Manthan Mand,18,Female,Urban,Government,145000,76.1,84.4,68.8,1,0,85.5,83.15,1
+SCH-2024172,Wridesh Biswas,20,Male,Semi-Urban,Private Unaided,415000,54.6,61.5,57.7,0,0,50.8,54.66,0
+SCH-2024173,Watika Dyal,18,Male,Rural,Private Aided,265000,95.2,92.8,43.3,0,0,71.4,78.95,1
+SCH-2024174,Aadi Khare,19,Male,Urban,Private Unaided,125000,73.9,65.5,86.7,0,0,78.6,78.61,1
+SCH-2024175,Jasmit Misra,19,Female,Semi-Urban,Government,65000,88.3,80.4,45.1,0,0,81.0,79.58,1
+SCH-2024176,Utkarsh Sekhon,19,Female,Semi-Urban,Private Aided,620000,69.2,75.0,36.5,0,1,36.4,54.29,0
+SCH-2024177,David Narayanan,19,Female,Rural,Government,50000,57.0,71.7,52.1,1,0,98.0,78.07,1
+SCH-2024178,Damini Chaudhari,24,Female,Urban,Private Aided,275000,63.1,74.9,35.9,0,0,64.5,63.82,0
+SCH-2024179,Devika Soni,19,Female,Rural,Government,55000,66.7,75.0,56.9,1,0,95.4,81.39,1
+SCH-2024180,Januja Sami,19,Male,Semi-Urban,Private Aided,235000,74.5,88.4,75.2,0,0,66.6,73.25,0
+SCH-2024181,Ojasvi Panchal,19,Male,Rural,Private Unaided,475000,66.3,72.4,72.5,0,0,52.2,61.49,0
+SCH-2024182,Jhalak Malhotra,22,Female,Semi-Urban,Private Unaided,475000,81.1,69.6,54.5,0,1,45.5,66.74,0
+SCH-2024183,Harish Chakraborty,19,Male,Semi-Urban,Private Unaided,870000,73.8,78.9,91.9,0,0,12.6,52.69,0
+SCH-2024184,Harita Dara,21,Female,Urban,Private Unaided,365000,79.2,91.8,71.1,1,0,66.8,77.47,1
+SCH-2024185,Kritika Kamdar,20,Male,Semi-Urban,Government,205000,72.7,70.8,35.7,1,0,85.5,77.88,1
+SCH-2024186,Charles Tak,19,Female,Urban,Private Unaided,525000,79.2,82.0,86.9,0,0,42.1,68.94,0
+SCH-2024187,Devika Parsa,18,Female,Rural,Government,100000,52.4,71.7,45.6,1,0,89.0,71.86,0
+SCH-2024188,Unni Shere,18,Male,Urban,Private Unaided,360000,72.5,70.1,55.8,1,0,69.7,71.95,0
+SCH-2024189,Yamini Char,19,Female,Rural,Private Aided,75000,65.2,69.2,61.7,0,0,75.8,69.9,0
+SCH-2024190,Damini Gokhale,19,Male,Rural,Private Aided,330000,56.6,73.6,79.3,1,0,76.0,70.35,0
+SCH-2024191,Ekbal Mahal,19,Male,Rural,Government,75000,63.4,79.6,29.4,0,1,87.3,69.18,0
+SCH-2024192,Gauri Ramakrishnan,19,Female,Rural,Government,190000,65.2,73.3,65.0,0,0,76.1,70.2,0
+SCH-2024193,Jeevika Wagle,18,Male,Semi-Urban,Private Aided,270000,76.2,78.2,57.2,0,0,65.3,70.93,0
+SCH-2024194,Yachana Sankar,19,Female,Urban,Private Unaided,520000,82.9,61.7,68.3,1,0,51.8,66.6,0
+SCH-2024195,Krishna Mangal,19,Female,Urban,Private Aided,155000,68.5,72.9,91.8,0,0,74.9,71.2,0
+SCH-2024196,Jagvi Purohit,20,Female,Rural,Private Aided,380000,66.4,83.9,43.1,0,0,57.5,64.65,0
+SCH-2024197,Ranveer Jani,19,Female,Rural,Government,50000,71.0,74.4,5.0,1,0,98.0,80.1,1
+SCH-2024198,Zinal Murty,18,Female,Urban,Private Unaided,795000,80.3,78.8,92.8,0,0,19.7,59.79,0
+SCH-2024199,Kala Boase,18,Female,Rural,Government,50000,77.9,83.4,23.7,0,0,87.5,77.51,1
+SCH-2024200,Ekta Tara,20,Female,Semi-Urban,Government,70000,55.3,81.9,46.1,1,0,94.3,76.5,0
+SCH-2024201,Vanya Vaidya,23,Female,Rural,Government,130000,59.4,75.2,73.4,1,0,93.6,81.86,1
+SCH-2024202,Pushti Samra,19,Male,Rural,Government,95000,70.0,77.5,59.2,0,1,80.6,79.22,1
+SCH-2024203,Veer Narasimhan,18,Male,Semi-Urban,Government,80000,80.8,83.2,36.9,1,0,86.8,85.86,1
+SCH-2024204,Hemangini Ravel,18,Female,Semi-Urban,Government,140000,87.2,80.1,54.0,1,0,94.3,85.18,1
+SCH-2024205,Vrishti Pall,18,Male,Urban,Private Aided,200000,63.5,73.4,34.9,0,0,71.2,61.72,0
+SCH-2024206,Jonathan Varma,20,Female,Semi-Urban,Private Aided,290000,65.1,78.0,34.4,0,0,65.9,63.01,0
+SCH-2024207,Faris Lall,20,Female,Semi-Urban,Government,70000,67.9,70.4,19.8,1,0,92.3,79.02,1
+SCH-2024208,Ryan Apte,19,Male,Urban,Private Unaided,870000,60.5,75.6,42.7,0,0,7.6,42.56,0
+SCH-2024209,Reva Raghavan,18,Male,Rural,Government,125000,65.6,65.2,83.7,1,0,97.4,82.7,1
+SCH-2024210,Saanvi Oak,19,Female,Urban,Private Unaided,1000000,85.7,77.3,12.5,0,1,5.0,47.45,0
+SCH-2024211,Devika Singhal,19,Male,Rural,Government,110000,86.4,87.2,41.4,1,0,97.5,86.55,1
+SCH-2024212,Priya Dalal,20,Male,Rural,Private Aided,140000,65.7,78.6,12.5,1,1,88.0,70.95,0
+SCH-2024213,Samesh Tandon,18,Female,Urban,Private Unaided,885000,78.8,76.2,86.1,0,0,13.5,51.9,0
+SCH-2024214,Isaac Biswas,21,Female,Rural,Private Unaided,1000000,85.1,75.7,71.7,0,0,5.0,53.31,0
+SCH-2024215,Jeevika Dutta,20,Male,Urban,Government,50000,71.3,81.6,62.5,1,0,98.0,92.78,1
+SCH-2024216,Abha Chandran,19,Male,Urban,Private Unaided,680000,78.7,84.2,82.8,0,0,30.1,59.87,0
+SCH-2024217,Lohit Kant,18,Female,Rural,Private Unaided,795000,95.0,85.6,69.4,0,0,19.4,61.43,0
+SCH-2024218,Aditya Ahluwalia,20,Male,Semi-Urban,Government,105000,96.4,86.7,30.0,0,0,80.8,82.6,1
+SCH-2024219,Rayaan Comar,18,Male,Semi-Urban,Private Unaided,470000,96.9,76.2,63.5,1,0,58.3,76.84,0
+SCH-2024220,Ekaraj Jayaraman,19,Male,Semi-Urban,Private Aided,385000,86.1,79.9,45.1,1,0,64.0,72.35,0
+SCH-2024221,Niharika Sachar,20,Female,Urban,Private Aided,130000,79.4,88.7,44.8,1,0,86.6,81.61,1
+SCH-2024222,Lohit Khatri,22,Male,Semi-Urban,Private Aided,495000,81.0,76.5,47.0,1,0,58.6,71.34,0
+SCH-2024223,Ucchal Johal,18,Male,Rural,Private Unaided,1000000,56.9,68.4,95.2,1,0,12.5,46.84,0
+SCH-2024224,Liam Lalla,18,Female,Rural,Government,115000,66.4,74.1,51.3,0,0,86.4,76.92,0
+SCH-2024225,Yuvraj Cherian,20,Female,Rural,Private Unaided,870000,72.6,66.7,82.8,1,0,31.3,60.78,0
+SCH-2024226,Leena Singhal,22,Female,Rural,Private Unaided,350000,67.9,85.0,79.6,0,0,60.4,68.51,0
+SCH-2024227,Naksh Sastry,19,Female,Semi-Urban,Private Unaided,310000,67.7,69.7,65.7,0,0,61.2,67.38,0
+SCH-2024228,Hredhaan Shah,19,Female,Urban,Government,260000,79.2,82.6,30.5,0,1,64.8,68.75,0
+SCH-2024229,Anita Dyal,20,Female,Rural,Government,280000,86.5,89.3,65.9,1,1,80.6,86.77,1
+SCH-2024230,Mitali Toor,22,Male,Rural,Private Aided,220000,81.7,77.3,45.5,0,0,75.5,81.02,1
+SCH-2024231,Nandini Sule,19,Female,Urban,Private Unaided,1000000,63.5,78.9,51.7,0,0,6.0,40.71,0
+SCH-2024232,Chameli Setty,22,Female,Urban,Private Aided,130000,72.7,80.9,55.7,0,0,73.6,76.1,0
+SCH-2024233,Aarush Walia,20,Female,Rural,Government,145000,70.5,76.4,51.0,1,0,89.8,78.18,1
+SCH-2024234,Pranit Sekhon,19,Female,Semi-Urban,Private Aided,375000,76.6,73.1,73.1,1,0,67.6,76.16,0
+SCH-2024235,Turvi Manda,19,Male,Urban,Private Unaided,800000,78.9,69.3,68.2,1,0,32.0,62.87,0
+SCH-2024236,Sachi Sankar,21,Male,Semi-Urban,Private Aided,110000,75.5,70.7,68.6,1,1,93.7,86.35,1
+SCH-2024237,Veer Balakrishnan,19,Female,Rural,Government,95000,66.9,70.0,42.8,1,0,98.0,80.82,1
+SCH-2024238,Praneel Dixit,18,Female,Semi-Urban,Government,115000,80.0,65.4,73.4,1,0,96.0,87.35,1
+SCH-2024239,Chakradev Char,20,Female,Semi-Urban,Private Aided,275000,60.6,74.7,40.4,0,0,61.9,60.03,0
+SCH-2024240,Chandani Tella,20,Female,Semi-Urban,Private Unaided,70000,76.4,76.8,55.8,0,0,86.7,80.8,1
+SCH-2024241,Michael Prabhakar,19,Female,Urban,Private Unaided,505000,82.3,66.1,65.0,0,0,38.8,61.26,0
+SCH-2024242,William Tailor,21,Male,Semi-Urban,Government,95000,74.0,79.5,48.8,1,1,90.3,81.97,1
+SCH-2024243,Yamini Issac,19,Male,Semi-Urban,Private Unaided,200000,62.1,66.0,44.5,0,1,69.2,58.07,0
+SCH-2024244,Zayyan Narayan,20,Male,Semi-Urban,Government,95000,86.8,81.3,75.2,1,1,93.5,94.06,1
+SCH-2024245,Zayyan Sankar,20,Male,Urban,Private Unaided,805000,81.6,74.1,76.5,1,1,29.7,64.48,0
+SCH-2024246,Dalaja Mangat,22,Male,Semi-Urban,Private Aided,610000,85.8,78.9,35.3,0,0,33.1,58.13,0
+SCH-2024247,Omaja Bhattacharyya,19,Female,Rural,Government,50000,94.5,83.0,39.4,0,0,88.5,87.68,1
+SCH-2024248,Girish Tandon,20,Female,Semi-Urban,Government,50000,74.8,71.8,37.0,0,0,85.4,71.21,0
+SCH-2024249,Anay Toor,19,Male,Urban,Private Unaided,215000,80.8,75.4,66.9,0,0,68.8,70.18,0
+SCH-2024250,Omaja Kamdar,18,Male,Rural,Private Aided,295000,66.1,71.7,67.0,0,0,68.1,69.27,0
+SCH-2024251,Harsh Tella,21,Male,Rural,Government,215000,80.8,67.3,59.5,1,0,86.6,85.31,1
+SCH-2024252,George Toor,20,Female,Urban,Private Unaided,750000,95.1,91.6,96.1,0,0,20.5,70.27,0
+SCH-2024253,Maanav Cheema,20,Female,Rural,Government,95000,83.5,70.1,50.5,0,0,85.0,81.11,1
+SCH-2024254,Azad Jha,19,Female,Semi-Urban,Private Aided,280000,62.8,73.7,34.3,0,0,67.2,66.5,0
+SCH-2024255,Ojas Contractor,19,Female,Semi-Urban,Private Aided,155000,81.7,84.1,64.1,1,1,91.6,89.17,1
+SCH-2024256,Chameli Suri,21,Male,Urban,Private Unaided,195000,87.8,70.0,76.6,0,0,74.8,83.18,1
+SCH-2024257,Advaith Kale,19,Female,Rural,Government,180000,70.6,77.6,62.4,1,0,89.7,79.01,1
+SCH-2024258,Bimala Golla,19,Male,Urban,Government,130000,80.1,85.2,45.8,0,1,73.5,74.38,0
+SCH-2024259,Pushti Bava,23,Male,Urban,Private Unaided,260000,90.9,76.8,56.7,1,0,74.4,81.52,1
+SCH-2024260,Vansha Gera,18,Female,Urban,Private Unaided,130000,84.7,75.5,84.8,0,0,73.6,78.32,1
+SCH-2024261,Sara Contractor,19,Female,Semi-Urban,Government,90000,87.2,85.1,41.2,1,1,92.5,85.2,1
+SCH-2024262,Ekansh Varghese,19,Male,Urban,Government,55000,73.3,67.8,62.1,0,0,81.3,72.37,0
+SCH-2024263,Ekanta Sinha,19,Male,Rural,Government,145000,85.0,86.0,60.3,1,0,92.0,83.51,1
+SCH-2024264,Naksh Bains,21,Male,Urban,Private Aided,550000,63.3,53.9,31.0,1,0,53.7,57.19,0
+SCH-2024265,Anthony Savant,19,Female,Semi-Urban,Private Aided,235000,77.4,75.2,98.0,1,0,80.9,79.69,1
+SCH-2024266,Chaaya Murty,19,Male,Rural,Government,65000,71.8,78.6,40.3,1,0,94.4,81.74,1
+SCH-2024267,Zayan Mand,19,Male,Rural,Government,135000,88.5,83.2,30.4,1,0,92.9,85.85,1
+SCH-2024268,Andrew Banerjee,18,Female,Rural,Private Aided,450000,78.9,76.9,35.9,0,0,52.4,61.98,0
+SCH-2024269,Eesha Sharaf,22,Female,Rural,Government,105000,92.8,90.7,44.3,1,1,86.0,86.82,1
+SCH-2024270,Ekta Bala,19,Male,Urban,Private Aided,140000,69.4,89.8,59.8,0,0,75.8,83.54,1
+SCH-2024271,Vaishnavi Nayak,18,Female,Semi-Urban,Private Aided,80000,62.0,75.0,40.8,0,0,80.2,65.79,0
+SCH-2024272,Yash Thaman,21,Female,Urban,Government,165000,80.4,82.6,50.0,0,0,72.4,77.87,1
+SCH-2024273,Hemang Tata,20,Female,Rural,Government,145000,57.2,76.5,21.7,0,0,81.4,64.41,0
+SCH-2024274,Aadhya Char,22,Male,Urban,Private Aided,360000,75.5,70.3,34.3,1,1,62.3,67.65,0
+SCH-2024275,Madhavi Natt,19,Male,Urban,Private Aided,105000,67.5,74.5,64.2,0,0,76.7,67.57,0
+SCH-2024276,Nathan Nori,20,Male,Urban,Private Unaided,580000,69.2,79.1,50.1,0,0,39.0,56.61,0
+SCH-2024277,Imaran Deol,21,Male,Rural,Private Aided,145000,68.2,70.0,24.0,1,0,91.9,74.61,0
+SCH-2024278,Imaran Shanker,19,Female,Semi-Urban,Government,55000,59.7,73.7,29.8,0,0,87.4,67.08,0
+SCH-2024279,Yasti Nagi,20,Male,Urban,Private Unaided,350000,62.7,76.5,76.1,0,0,52.7,68.2,0
+SCH-2024280,Gabriel More,18,Male,Rural,Government,140000,87.9,69.5,58.5,0,0,73.5,74.76,0
+SCH-2024281,Ayushman Rana,18,Female,Semi-Urban,Private Aided,85000,76.1,65.8,73.5,1,0,92.7,87.02,1
+SCH-2024282,Madhav Desai,19,Female,Urban,Private Aided,190000,68.4,82.5,54.9,1,0,85.5,77.36,1
+SCH-2024283,Urishilla Kade,21,Female,Semi-Urban,Government,130000,97.3,82.2,38.8,0,0,78.5,79.74,1
+SCH-2024284,Dhriti Bajwa,23,Male,Semi-Urban,Government,125000,68.3,76.2,56.8,1,1,91.7,75.02,0
+SCH-2024285,Falak Chander,19,Male,Urban,Private Unaided,295000,73.0,69.8,39.4,0,0,59.2,64.46,0
+SCH-2024286,Gavin Sarma,19,Female,Rural,Private Aided,95000,63.5,74.8,73.3,1,0,98.0,82.22,1
+SCH-2024287,Madhav Dhar,23,Female,Urban,Private Unaided,975000,98.2,91.3,59.0,0,0,5.0,62.44,0
+SCH-2024288,Jagrati Parmar,20,Male,Rural,Private Aided,175000,58.4,77.0,52.4,1,0,88.0,77.7,1
+SCH-2024289,Fariq Merchant,19,Female,Semi-Urban,Government,250000,74.1,84.4,26.8,1,0,78.3,76.86,0
+SCH-2024290,Arunima Aurora,20,Female,Urban,Government,220000,88.4,82.8,27.3,0,0,68.7,69.35,0
+SCH-2024291,Farhan Mallick,19,Female,Rural,Government,70000,61.4,66.6,54.2,0,0,86.7,70.13,0
+SCH-2024292,Inaya Shankar,22,Female,Rural,Government,90000,66.0,73.4,48.6,1,0,95.3,79.34,1
+SCH-2024293,Priya Soman,19,Female,Urban,Private Unaided,205000,65.2,72.8,80.5,0,0,68.3,67.46,0
+SCH-2024294,Rudra Arora,21,Male,Rural,Government,50000,87.0,83.8,34.0,0,1,78.3,77.01,1
+SCH-2024295,Chakrika Arya,19,Female,Semi-Urban,Government,150000,56.4,71.1,44.9,1,0,83.9,66.38,0
+SCH-2024296,Harsh Gaba,20,Female,Rural,Government,145000,84.6,82.3,42.1,0,0,75.8,74.8,0
+SCH-2024297,Upasna Varghese,19,Female,Semi-Urban,Private Unaided,315000,73.8,79.3,56.9,0,0,57.5,68.92,0
+SCH-2024298,Daksha Bhatti,18,Male,Rural,Private Unaided,595000,83.4,85.2,71.6,0,0,46.8,67.02,0
+SCH-2024299,Qadim Singh,19,Female,Rural,Government,180000,63.2,82.6,53.3,0,1,72.9,66.92,0
+SCH-2024300,Prisha Tandon,20,Female,Urban,Government,85000,92.1,86.4,78.4,1,0,93.2,97.8,1
+SCH-2024301,Devika Dave,19,Female,Urban,Private Aided,290000,73.4,71.5,68.1,0,1,62.1,65.84,0
+SCH-2024302,Vinaya Thakur,21,Female,Urban,Private Aided,175000,55.2,69.9,55.6,0,0,68.0,66.94,0
+SCH-2024303,Qasim Dixit,19,Female,Rural,Private Aided,525000,81.5,73.7,56.0,0,1,41.0,65.11,0
+SCH-2024304,Nandini Ramachandran,22,Female,Rural,Private Aided,620000,79.1,78.4,58.6,1,0,50.9,69.61,0
+SCH-2024305,Amruta Chand,19,Female,Rural,Government,215000,78.5,84.6,25.6,0,0,70.1,69.93,0
+SCH-2024306,Libni Ramesh,18,Male,Urban,Private Unaided,1000000,66.3,72.3,72.4,1,1,9.3,52.48,0
+SCH-2024307,Om Sheth,19,Female,Semi-Urban,Private Unaided,595000,89.4,80.9,54.5,0,0,32.3,66.78,0
+SCH-2024308,Kabir Behl,18,Female,Rural,Government,105000,79.2,84.2,49.6,1,0,98.0,87.93,1
+SCH-2024309,Nikita Mall,19,Female,Semi-Urban,Private Aided,125000,75.2,71.3,61.6,0,0,80.8,78.08,1
+SCH-2024310,Gunbir Krishnan,20,Male,Semi-Urban,Private Aided,150000,70.6,81.9,61.9,0,0,75.2,70.6,0
+SCH-2024311,Warhi Bath,19,Male,Rural,Government,210000,75.9,80.9,25.1,1,0,85.2,76.58,0
+SCH-2024312,Jagdish Mohanty,20,Female,Rural,Private Aided,245000,89.7,75.6,79.2,0,0,66.1,77.34,1
+SCH-2024313,Frado Sankar,20,Male,Rural,Private Unaided,315000,61.8,78.0,84.2,1,0,73.2,77.71,1
+SCH-2024314,Yashvi Sibal,20,Female,Semi-Urban,Private Unaided,460000,72.6,75.6,73.4,0,1,48.8,58.73,0
+SCH-2024315,Agastya Kapoor,18,Male,Urban,Private Aided,115000,59.4,71.6,72.3,1,0,86.3,80.5,1
+SCH-2024316,Samesh Shah,20,Female,Urban,Private Unaided,1000000,81.3,67.5,91.8,0,0,5.0,49.01,0
+SCH-2024317,Ikbal Dhar,18,Male,Rural,Government,190000,69.5,64.3,64.6,1,0,84.5,77.18,1
+SCH-2024318,Ria Sodhi,19,Male,Semi-Urban,Government,95000,69.2,70.8,51.1,1,0,93.6,83.61,1
+SCH-2024319,Wriddhish Bhat,21,Female,Semi-Urban,Private Aided,130000,88.4,83.5,42.2,0,1,78.4,72.96,0
+SCH-2024320,Nidhi Issac,19,Male,Semi-Urban,Private Aided,140000,73.4,75.3,37.8,0,0,74.6,70.19,0
+SCH-2024321,Tarak Andra,19,Male,Semi-Urban,Government,130000,69.3,82.2,37.9,1,0,90.4,81.74,1
+SCH-2024322,Qarin Tara,20,Male,Semi-Urban,Private Unaided,165000,78.6,84.3,98.0,0,1,74.5,78.24,1
+SCH-2024323,Januja Date,20,Male,Rural,Private Aided,95000,84.9,76.1,46.7,1,0,94.7,85.17,1
+SCH-2024324,Sudiksha Nazareth,19,Female,Semi-Urban,Private Unaided,250000,67.6,75.7,56.2,1,0,79.2,77.56,1
+SCH-2024325,Teerth Sampath,23,Female,Rural,Government,345000,83.5,75.9,62.8,1,1,73.3,79.29,1
+SCH-2024326,Sneha Keer,18,Male,Rural,Government,130000,64.1,72.0,29.8,0,0,83.6,72.65,0
+SCH-2024327,Aachal Sandhu,19,Female,Semi-Urban,Government,115000,72.0,70.5,68.4,1,0,89.4,80.51,1
+SCH-2024328,Ria Sami,18,Male,Semi-Urban,Private Aided,115000,64.1,77.0,50.1,0,0,76.9,65.94,0
+SCH-2024329,Krish Nagar,19,Male,Rural,Private Aided,145000,98.6,89.9,60.8,1,0,88.4,93.79,1
+SCH-2024330,Yadavi Yohannan,19,Male,Semi-Urban,Private Aided,250000,75.2,70.8,51.2,0,1,65.0,65.37,0
+SCH-2024331,Wakeeta Rajagopal,20,Female,Semi-Urban,Private Aided,100000,81.7,93.8,32.9,0,0,81.7,76.48,0
+SCH-2024332,Laban Sule,18,Female,Urban,Private Unaided,595000,82.9,82.7,81.2,0,0,31.6,63.12,0
+SCH-2024333,Ganga Badal,19,Female,Semi-Urban,Private Aided,200000,54.6,77.6,40.6,1,1,85.0,71.28,0
+SCH-2024334,Riya Murthy,18,Female,Rural,Private Aided,280000,81.2,78.1,56.8,1,1,79.8,83.48,1
+SCH-2024335,Nachiket Ravi,21,Male,Urban,Private Aided,215000,85.9,76.0,42.6,0,1,65.3,69.69,0
+SCH-2024336,Frado Naidu,19,Male,Semi-Urban,Private Aided,80000,79.1,73.5,29.4,1,0,96.6,84.51,1
+SCH-2024337,Janya Kuruvilla,22,Female,Rural,Private Aided,625000,81.6,81.3,59.4,1,0,46.4,71.48,0
+SCH-2024338,Naksh Gade,21,Female,Rural,Private Aided,150000,69.9,75.5,75.6,1,0,92.7,80.94,1
+SCH-2024339,Lopa Kalita,20,Female,Semi-Urban,Government,150000,66.9,80.8,35.4,0,0,72.4,67.08,0
+SCH-2024340,Waida Iyer,20,Male,Semi-Urban,Government,75000,69.1,83.0,61.8,1,0,89.2,79.37,1
+SCH-2024341,Ubika Date,18,Male,Urban,Private Aided,80000,52.5,71.0,43.6,0,0,77.0,60.72,0
+SCH-2024342,Gautam Mallick,21,Male,Rural,Private Aided,140000,72.8,78.2,58.4,0,0,79.3,69.37,0
+SCH-2024343,Sanya Arora,20,Male,Rural,Government,100000,73.0,83.5,62.0,0,0,82.3,77.75,1
+SCH-2024344,Henry Bahri,21,Female,Semi-Urban,Private Aided,275000,71.0,74.5,86.7,0,0,61.2,68.35,0
+SCH-2024345,Akshay Borah,21,Male,Rural,Private Aided,120000,68.0,77.3,62.4,1,0,96.6,85.25,1
+SCH-2024346,Ayushman Mutti,19,Male,Urban,Government,115000,80.8,69.9,62.3,1,0,88.0,83.93,1
+SCH-2024347,Elijah Bawa,20,Female,Rural,Government,105000,83.4,70.6,25.4,1,0,97.3,83.69,1
+SCH-2024348,Ojas Garg,19,Male,Rural,Private Unaided,460000,73.3,67.0,95.9,1,0,61.7,74.73,0
+SCH-2024349,Zilmil Bhandari,21,Male,Semi-Urban,Private Aided,210000,94.3,87.0,27.6,1,0,84.6,85.62,1
+SCH-2024350,Gavin Sibal,19,Female,Rural,Government,140000,91.9,81.9,42.8,1,0,88.2,86.73,1
+SCH-2024351,Kavya Doctor,19,Female,Rural,Private Aided,185000,82.5,75.2,74.6,0,0,75.7,83.21,1
+SCH-2024352,Ishani Bava,21,Male,Rural,Private Aided,200000,62.5,75.1,28.4,1,0,83.1,74.94,0
+SCH-2024353,Gaurav Saran,18,Female,Rural,Private Aided,105000,52.1,72.4,33.5,1,0,88.8,66.96,0
+SCH-2024354,Omaja Shroff,21,Male,Semi-Urban,Government,60000,86.3,74.1,39.1,1,0,96.1,84.38,1
+SCH-2024355,Janaki Kalla,18,Female,Urban,Private Aided,125000,58.7,71.5,59.7,0,0,75.5,66.16,0
+SCH-2024356,Damini Gera,20,Male,Urban,Private Unaided,265000,71.5,70.8,44.6,0,0,59.8,64.66,0
+SCH-2024357,Adweta Uppal,20,Female,Rural,Government,170000,93.2,82.3,26.5,0,1,72.8,72.77,0
+SCH-2024358,Matthew Chander,18,Female,Urban,Private Unaided,575000,66.6,77.1,59.2,0,0,36.5,56.35,0
+SCH-2024359,Jagrati Gill,20,Female,Semi-Urban,Government,125000,87.0,72.3,28.1,1,0,86.6,80.91,1
+SCH-2024360,Saumya Varughese,19,Male,Semi-Urban,Government,70000,80.8,85.3,78.1,1,0,97.5,89.35,1
+SCH-2024361,Saksham Krishnamurthy,18,Female,Urban,Private Aided,165000,86.8,73.0,75.5,1,1,79.9,85.59,1
+SCH-2024362,Rushil Baria,19,Female,Rural,Government,60000,89.6,83.2,44.2,1,1,98.0,94.49,1
+SCH-2024363,Aryan Dixit,21,Male,Semi-Urban,Government,95000,66.0,82.5,36.2,1,0,95.0,79.96,1
+SCH-2024364,Bishakha Gaba,18,Female,Semi-Urban,Government,100000,93.0,83.0,46.2,0,0,73.1,78.95,1
+SCH-2024365,Ayushman Prabhakar,22,Male,Urban,Private Unaided,845000,81.3,85.5,59.1,0,0,17.6,57.24,0
+SCH-2024366,Balvan Loke,21,Male,Semi-Urban,Government,80000,59.5,68.4,71.2,1,0,95.2,76.64,0
+SCH-2024367,Guneet Misra,19,Female,Rural,Private Aided,115000,71.2,76.2,72.1,1,0,92.4,79.02,1
+SCH-2024368,Logan Amble,18,Female,Rural,Government,165000,79.5,79.0,69.9,0,1,79.1,82.14,1
+SCH-2024369,Faris Master,20,Male,Urban,Private Unaided,275000,79.3,83.9,59.2,0,0,60.8,64.93,0
+SCH-2024370,Wakeeta Wali,21,Female,Urban,Government,90000,73.6,69.2,43.5,0,0,85.1,75.77,0
+SCH-2024371,Upkaar Pau,18,Female,Rural,Government,135000,64.2,77.6,46.5,1,0,91.8,79.72,1
+SCH-2024372,Pahal Sankaran,19,Female,Urban,Government,430000,83.0,71.8,54.2,1,0,62.2,73.86,0
+SCH-2024373,Watika Swaminathan,20,Male,Urban,Private Unaided,825000,61.9,72.0,98.0,0,0,15.8,44.2,0
+SCH-2024374,Ishaan Pillay,18,Male,Rural,Government,70000,70.5,78.3,17.4,1,0,91.1,77.18,1
+SCH-2024375,Robert Nanda,20,Female,Semi-Urban,Government,110000,59.6,72.3,78.7,0,0,78.9,71.8,0
+SCH-2024376,Indira Balasubramanian,20,Female,Semi-Urban,Private Aided,130000,79.9,87.4,56.5,1,1,86.1,84.46,1
+SCH-2024377,Omisha Sarma,18,Female,Urban,Government,210000,83.9,75.8,19.5,1,1,86.7,76.83,0
+SCH-2024378,Amruta Om,19,Female,Rural,Government,125000,76.7,78.9,66.3,1,0,95.1,82.42,1
+SCH-2024379,Tanay Balan,19,Female,Urban,Private Aided,335000,79.0,83.3,93.5,1,0,72.2,80.43,1
+SCH-2024380,Jagvi Chanda,19,Male,Rural,Government,230000,66.8,76.1,38.3,0,0,68.4,66.38,0
+SCH-2024381,Hemal Bakshi,19,Male,Semi-Urban,Private Unaided,470000,80.8,75.8,55.7,0,1,48.3,65.98,0
+SCH-2024382,Nidhi Atwal,20,Female,Rural,Private Aided,280000,85.3,78.8,51.8,1,0,78.0,80.5,1
+SCH-2024383,Charles Batra,18,Male,Semi-Urban,Private Aided,190000,68.1,75.5,57.1,1,0,86.5,78.23,1
+SCH-2024384,Jacob Badal,19,Male,Rural,Private Unaided,445000,70.3,78.9,65.2,0,0,56.6,63.21,0
+SCH-2024385,Baljiwan Srinivasan,20,Male,Rural,Private Aided,180000,62.0,67.6,37.5,0,0,79.8,69.31,0
+SCH-2024386,Triveni Vora,23,Female,Urban,Private Aided,130000,86.4,76.1,80.1,0,0,80.0,80.96,1
+SCH-2024387,Hardik Srinivas,18,Female,Rural,Government,60000,69.5,76.1,36.6,1,0,98.0,78.23,1
+SCH-2024388,Ekapad Pradhan,20,Female,Semi-Urban,Private Aided,170000,87.4,80.8,55.3,0,0,76.3,79.06,1
+SCH-2024389,Yuvraj Singh,20,Male,Urban,Private Unaided,85000,63.9,69.4,67.4,0,0,81.9,71.32,0
+SCH-2024390,Pratyush Misra,18,Male,Semi-Urban,Government,50000,77.1,84.2,46.2,0,0,83.1,76.67,0
+SCH-2024391,Zayyan Kuruvilla,19,Male,Semi-Urban,Government,140000,66.8,66.7,46.9,1,0,93.7,77.16,1
+SCH-2024392,Kiaan Bhatti,24,Female,Rural,Private Aided,185000,75.4,69.0,88.9,1,1,88.5,84.49,1
+SCH-2024393,Urmi Roy,19,Male,Semi-Urban,Private Aided,165000,73.2,80.4,59.1,0,0,65.1,71.15,0
+SCH-2024394,Advika Verma,19,Male,Rural,Government,75000,50.4,65.8,50.7,1,0,98.0,66.54,0
+SCH-2024395,Lopa Sodhi,19,Female,Rural,Government,100000,63.6,79.0,50.6,0,1,82.8,73.15,0
+SCH-2024396,Kashish Uppal,18,Female,Semi-Urban,Private Aided,655000,72.2,69.0,50.3,0,0,31.8,57.16,0
+SCH-2024397,Aahana Singh,20,Female,Semi-Urban,Private Aided,430000,94.2,79.2,36.8,0,0,55.5,70.79,0
+SCH-2024398,Lavanya Bir,19,Male,Semi-Urban,Government,70000,75.3,66.5,48.6,0,1,82.8,79.74,1
+SCH-2024399,Janaki Badami,19,Male,Semi-Urban,Private Unaided,795000,60.2,82.8,78.0,1,0,31.4,54.98,0
+SCH-2024400,Jhalak Sundaram,19,Male,Rural,Private Unaided,245000,57.5,61.0,58.5,0,0,66.8,63.95,0
+SCH-2024401,Brinda Baria,20,Female,Rural,Government,105000,62.1,67.5,37.4,1,0,94.0,76.42,0
+SCH-2024402,Reyansh Ganesh,19,Male,Urban,Private Aided,315000,80.6,79.7,45.6,0,1,63.7,72.07,0
+SCH-2024403,Xavier Reddy,18,Male,Rural,Private Aided,150000,79.7,74.5,37.0,1,0,87.2,80.87,1
+SCH-2024404,Nitara Mittal,19,Female,Rural,Government,80000,72.3,77.8,46.8,0,0,82.5,76.23,0
+SCH-2024405,Ekantika Kapur,18,Female,Rural,Government,115000,94.9,90.1,29.2,0,0,81.9,81.88,1
+SCH-2024406,Chavvi Padmanabhan,18,Female,Rural,Private Aided,350000,55.1,69.0,25.6,0,0,63.1,54.25,0
+SCH-2024407,Maanav Shroff,20,Male,Rural,Private Aided,175000,72.6,81.3,25.3,1,0,94.1,82.82,1
+SCH-2024408,Arya Bala,19,Female,Rural,Government,110000,91.7,74.0,32.8,1,0,95.0,89.38,1
+SCH-2024409,Tamanna Prabhu,18,Male,Urban,Private Unaided,785000,61.4,84.5,83.7,1,0,29.0,57.63,0
+SCH-2024410,Lopa Jayaraman,20,Female,Semi-Urban,Government,135000,59.5,69.9,55.9,1,0,81.5,77.06,1
+SCH-2024411,Atharv Nagar,18,Male,Urban,Private Unaided,305000,74.6,80.1,65.6,0,0,61.5,71.54,0
+SCH-2024412,Kashvi Soman,18,Male,Rural,Private Aided,240000,80.2,82.6,64.7,1,0,84.1,86.15,1
+SCH-2024413,Anusha Ganesan,20,Female,Semi-Urban,Private Unaided,280000,62.0,80.0,60.7,0,0,62.1,64.28,0
+SCH-2024414,Wishi Comar,19,Female,Urban,Private Unaided,245000,83.1,78.4,71.7,0,0,69.3,73.34,0
+SCH-2024415,Gaurika Mukherjee,20,Male,Rural,Government,90000,88.3,86.1,52.8,1,0,90.2,82.59,1
+SCH-2024416,Imaran Tiwari,18,Male,Urban,Private Aided,240000,69.2,74.0,76.0,0,0,63.0,68.45,0
+SCH-2024417,Thomas Kade,20,Male,Rural,Government,115000,75.3,77.4,37.3,1,0,89.9,77.01,1
+SCH-2024418,Bhanumati Saha,19,Female,Rural,Private Aided,505000,94.1,75.2,66.7,0,0,50.3,73.11,0
+SCH-2024419,Hredhaan Chandran,23,Male,Rural,Government,305000,95.5,86.1,65.6,0,0,63.6,80.96,1
+SCH-2024420,Zansi Kant,20,Female,Urban,Government,145000,69.8,72.2,36.2,1,0,87.1,74.91,0
+SCH-2024421,Bhavini Solanki,19,Male,Rural,Private Aided,265000,63.2,82.6,65.2,1,0,73.9,70.2,0
+SCH-2024422,Advaith Chowdhury,24,Female,Rural,Government,130000,81.4,81.3,42.7,1,1,94.2,86.04,1
+SCH-2024423,Jai Mohan,18,Male,Semi-Urban,Private Unaided,220000,72.7,72.7,63.6,0,0,68.8,68.03,0
+SCH-2024424,Viraj Shetty,20,Female,Rural,Private Aided,445000,67.0,86.6,63.1,1,0,60.7,71.87,0
+SCH-2024425,Ria Hegde,18,Female,Urban,Private Unaided,815000,85.1,72.7,80.7,0,0,16.6,56.14,0
+SCH-2024426,Bhavna Sachar,22,Female,Semi-Urban,Private Aided,380000,92.6,81.9,54.0,0,0,55.2,72.89,0
+SCH-2024427,Ojas Gokhale,19,Male,Semi-Urban,Private Aided,475000,71.7,77.6,50.8,1,0,56.1,71.81,0
+SCH-2024428,Veda Suri,19,Female,Rural,Private Unaided,255000,70.1,76.9,69.2,1,0,85.7,79.93,1
+SCH-2024429,Vihaan Tank,18,Male,Urban,Private Aided,170000,74.6,74.0,75.8,1,0,80.1,84.28,1
+SCH-2024430,Vihaan Pandit,18,Male,Urban,Private Aided,305000,76.5,84.5,55.8,1,0,75.1,80.32,1
+SCH-2024431,Manan Bhagat,18,Female,Semi-Urban,Government,120000,82.6,86.7,46.0,1,0,91.2,89.06,1
+SCH-2024432,Upadhriti Nayak,21,Female,Semi-Urban,Private Aided,130000,90.9,75.5,75.5,0,0,81.4,82.31,1
+SCH-2024433,Nisha Lalla,18,Female,Rural,Government,95000,69.9,85.4,37.4,1,0,92.5,82.34,1
+SCH-2024434,Ishwar Nadkarni,21,Male,Rural,Government,90000,60.5,76.7,40.9,0,0,81.5,61.5,0
+SCH-2024435,Liam Chander,18,Male,Rural,Private Unaided,1000000,70.2,86.0,61.7,1,0,12.8,52.66,0
+SCH-2024436,Raghav Gulati,19,Female,Urban,Private Aided,750000,81.5,71.9,58.1,0,0,22.3,53.31,0
+SCH-2024437,Charita Gour,19,Male,Rural,Government,120000,88.9,83.6,5.0,1,1,94.9,80.97,1
+SCH-2024438,Udarsh Hayer,18,Male,Rural,Private Aided,350000,67.4,81.0,82.6,1,0,72.4,74.28,0
+SCH-2024439,Rushil Viswanathan,18,Male,Semi-Urban,Private Aided,135000,87.5,76.0,28.7,0,0,76.4,76.4,0
+SCH-2024440,Bhavya Chad,19,Female,Semi-Urban,Private Unaided,530000,79.6,75.0,70.0,1,0,51.6,66.74,0
+SCH-2024441,Keya Thakur,20,Male,Semi-Urban,Private Unaided,375000,82.3,81.5,76.8,0,1,57.2,72.99,0
+SCH-2024442,Rishi Lata,19,Male,Rural,Government,305000,99.5,83.1,43.1,1,0,80.0,88.45,1
+SCH-2024443,Sai Patel,18,Male,Semi-Urban,Private Aided,205000,92.8,80.7,83.0,1,1,79.5,89.26,1
+SCH-2024444,Bhavika Nagar,21,Male,Rural,Private Unaided,455000,73.6,81.0,58.0,1,0,64.0,73.46,0
+SCH-2024445,Indira Sagar,19,Male,Rural,Government,100000,65.7,77.9,41.3,1,0,93.1,79.12,1
+SCH-2024446,Leena Mitter,20,Female,Urban,Private Aided,320000,79.9,79.5,73.4,0,1,55.1,69.14,0
+SCH-2024447,Gabriel Oza,20,Male,Rural,Government,110000,90.4,80.9,59.4,0,0,81.7,85.67,1
+SCH-2024448,Amruta Dada,19,Male,Urban,Private Unaided,375000,71.7,66.9,74.7,0,0,47.7,61.78,0
+SCH-2024449,Advika Dave,18,Female,Urban,Private Aided,65000,81.1,78.0,53.7,1,0,86.6,84.86,1
+SCH-2024450,Omkaar Sant,19,Male,Rural,Government,260000,76.0,81.0,31.3,1,1,85.2,77.68,1
+SCH-2024451,Siddharth Sen,19,Male,Rural,Private Aided,160000,64.5,72.1,70.7,1,0,91.4,78.71,1
+SCH-2024452,Nandini Kurian,18,Female,Semi-Urban,Government,160000,55.1,61.5,54.0,1,0,89.1,68.84,0
+SCH-2024453,Tanmayi Cheema,18,Female,Rural,Private Unaided,415000,76.0,72.1,60.6,0,0,59.5,66.01,0
+SCH-2024454,Dalaja Kale,19,Female,Rural,Government,120000,83.9,78.0,73.3,1,0,91.3,89.02,1
+SCH-2024455,Zarna Sura,19,Female,Semi-Urban,Private Unaided,265000,86.4,75.5,74.6,0,0,64.0,73.12,0
+SCH-2024456,Karan Badami,18,Female,Rural,Government,80000,75.7,77.2,70.6,1,0,92.7,85.44,1
+SCH-2024457,Guneet Pillai,18,Female,Semi-Urban,Government,150000,75.2,72.3,40.5,1,1,90.3,83.5,1
+SCH-2024458,Edhitha Wali,20,Male,Semi-Urban,Government,85000,89.7,81.6,40.4,1,0,93.7,89.75,1
+SCH-2024459,Aarnav Dyal,18,Male,Rural,Government,110000,56.6,70.6,30.6,1,0,95.8,75.37,0
+SCH-2024460,Yuvraj Manda,18,Female,Rural,Government,65000,78.7,72.8,43.1,0,0,84.2,79.72,1
+SCH-2024461,Mohammed Golla,19,Male,Semi-Urban,Government,140000,78.9,83.1,54.6,1,0,93.2,86.26,1
+SCH-2024462,Gaurangi Lad,20,Male,Rural,Private Aided,190000,76.7,74.2,38.9,0,1,78.2,67.66,0
+SCH-2024463,Warhi Dua,20,Male,Urban,Private Aided,180000,66.7,77.0,56.0,1,0,85.7,73.79,0
+SCH-2024464,Zaitra Kulkarni,19,Male,Rural,Government,55000,92.7,87.3,40.7,0,1,87.3,87.82,1
+SCH-2024465,Ganga Loyal,20,Male,Rural,Government,140000,87.3,73.0,45.3,0,0,78.9,78.68,1
+SCH-2024466,Zaitra Ramakrishnan,21,Male,Rural,Government,195000,70.3,71.2,5.0,0,0,71.5,59.14,0
+SCH-2024467,Krishna Balasubramanian,19,Female,Semi-Urban,Private Unaided,1000000,71.8,70.4,52.6,0,0,5.0,48.39,0
+SCH-2024468,Unni Rajagopalan,20,Female,Semi-Urban,Private Aided,135000,85.3,74.1,15.1,0,1,78.8,82.02,1
+SCH-2024469,Madhav Chada,18,Male,Rural,Government,65000,85.0,87.3,71.3,1,0,95.5,90.59,1
+SCH-2024470,Prisha Ramaswamy,19,Male,Semi-Urban,Private Aided,140000,75.1,81.5,58.2,1,0,81.9,85.0,1
+SCH-2024471,Ekantika Samra,22,Male,Rural,Government,50000,79.4,66.9,66.9,1,1,98.0,86.5,1
+SCH-2024472,Raagini Mitter,20,Female,Urban,Private Unaided,465000,86.4,76.8,68.5,0,0,52.7,68.74,0
+SCH-2024473,Xiti Pandya,19,Male,Rural,Government,250000,67.5,74.8,15.6,1,0,85.1,72.55,0
+SCH-2024474,Abhimanyu Tata,20,Male,Rural,Private Aided,165000,65.6,75.2,22.2,1,0,88.7,73.32,0
+SCH-2024475,Liam Trivedi,21,Female,Rural,Government,120000,91.7,82.8,48.1,1,0,89.4,87.67,1
+SCH-2024476,Dev Mitter,22,Male,Rural,Government,255000,73.0,86.7,85.0,0,0,69.6,72.15,0
+SCH-2024477,Mitesh Srivastava,19,Female,Urban,Government,145000,79.3,73.4,47.5,0,0,68.3,69.35,0
+SCH-2024478,Nathaniel Hari,22,Female,Semi-Urban,Private Aided,90000,85.0,81.1,58.2,1,0,90.2,86.92,1
+SCH-2024479,Yachana Walia,22,Male,Semi-Urban,Private Unaided,410000,66.3,75.0,51.6,0,0,51.5,66.77,0
+SCH-2024480,Brinda Kar,20,Female,Rural,Government,55000,57.4,76.8,75.9,0,0,82.4,70.38,0
+SCH-2024481,Siddharth Venkataraman,23,Female,Rural,Government,75000,87.1,79.5,33.1,1,1,97.3,87.76,1
+SCH-2024482,Krishna Kamdar,21,Male,Rural,Private Aided,205000,74.9,80.2,48.3,0,0,71.5,70.04,0
+SCH-2024483,Yashvi Samra,20,Female,Rural,Private Unaided,305000,77.1,78.4,87.2,1,0,76.6,80.57,1
+SCH-2024484,Thomas Sen,20,Male,Semi-Urban,Private Aided,195000,63.0,74.5,41.8,1,0,82.9,70.23,0
+SCH-2024485,Onveer Tandon,19,Male,Semi-Urban,Government,65000,76.0,71.0,38.0,0,0,81.5,71.1,0
+SCH-2024486,Ekantika De,20,Male,Semi-Urban,Private Aided,260000,84.0,74.3,32.3,0,0,64.8,70.71,0
+SCH-2024487,Janaki Bhagat,20,Female,Semi-Urban,Government,95000,75.4,71.5,20.6,1,0,89.6,80.08,1
+SCH-2024488,Zehaan Bedi,18,Female,Urban,Private Unaided,130000,82.0,79.1,90.2,0,1,75.4,77.21,1
+SCH-2024489,Megha Brar,22,Female,Urban,Private Unaided,230000,76.6,77.3,30.7,0,0,65.8,65.68,0
+SCH-2024490,Sanya Deol,19,Male,Urban,Private Aided,275000,82.5,74.2,84.3,0,1,63.5,79.47,1
+SCH-2024491,Jagvi Chhabra,20,Female,Urban,Private Unaided,1000000,77.2,77.1,91.3,1,0,10.2,52.24,0
+SCH-2024492,Prisha Ravel,21,Male,Semi-Urban,Private Unaided,310000,84.8,75.9,57.2,1,0,71.1,75.75,0
+SCH-2024493,Zilmil Gala,18,Female,Semi-Urban,Private Aided,260000,80.5,73.5,75.9,1,0,81.2,80.96,1
+SCH-2024494,Lucky Mody,18,Female,Rural,Private Aided,245000,63.7,86.6,62.4,0,0,68.9,70.71,0
+SCH-2024495,Yahvi Yohannan,20,Female,Rural,Government,160000,76.5,78.8,72.4,1,0,85.9,86.39,1
+SCH-2024496,Anusha Bhatti,21,Female,Semi-Urban,Private Aided,160000,68.3,87.2,65.6,0,0,73.9,72.02,0
+SCH-2024497,Naksh Dixit,20,Male,Urban,Private Aided,80000,69.4,81.2,43.3,1,1,90.6,82.58,1
+SCH-2024498,Anmol Bobal,19,Female,Rural,Government,100000,88.7,74.3,39.9,0,0,85.9,81.27,1
+SCH-2024499,Abdul Kaur,19,Male,Semi-Urban,Government,50000,87.8,69.1,57.7,0,1,84.8,84.02,1
+SCH-2024500,Bishakha Bava,24,Female,Rural,Government,180000,87.0,82.4,42.5,1,0,84.6,85.06,1
+SCH-2024501,Abdul Mitter,19,Female,Urban,Private Aided,180000,65.3,78.0,5.0,0,0,72.6,64.76,0
+SCH-2024502,Aishani Doctor,22,Male,Urban,Private Unaided,235000,79.5,75.8,36.7,0,0,65.9,69.82,0
+SCH-2024503,Veda Naik,18,Male,Rural,Government,50000,70.2,79.4,62.5,1,0,95.3,80.44,1
+SCH-2024504,Chatura Balay,20,Female,Rural,Private Aided,160000,52.2,70.1,87.5,1,0,91.3,74.7,0
+SCH-2024505,Hredhaan Mangat,18,Female,Semi-Urban,Private Aided,200000,91.3,78.4,38.5,0,0,67.1,69.57,0
+SCH-2024506,Ikbal Nagar,19,Female,Rural,Private Unaided,815000,69.4,78.1,64.0,0,0,15.3,50.3,0
+SCH-2024507,Gayathri Gole,19,Female,Semi-Urban,Private Unaided,460000,72.3,81.5,61.5,0,0,47.0,61.59,0
+SCH-2024508,Meera Palla,20,Female,Urban,Private Aided,300000,63.1,67.9,49.3,1,0,75.2,69.76,0
+SCH-2024509,Baljiwan Vasa,22,Female,Semi-Urban,Private Unaided,155000,89.6,72.5,80.7,0,1,77.0,80.0,1
+SCH-2024510,Saanvi Shankar,21,Female,Semi-Urban,Private Unaided,255000,80.9,75.7,50.0,0,0,62.3,74.43,0
+SCH-2024511,Neha Sha,22,Female,Rural,Government,105000,73.4,84.4,66.1,0,0,80.4,76.18,0
+SCH-2024512,Qarin Keer,19,Female,Urban,Private Aided,195000,75.3,82.6,46.1,1,0,80.5,78.69,1
+SCH-2024513,Ati Rajagopalan,19,Male,Rural,Government,50000,65.6,78.1,9.6,0,0,87.2,70.05,0
+SCH-2024514,Advik Amble,19,Female,Urban,Private Unaided,1000000,64.5,65.7,65.8,0,0,5.0,40.56,0
+SCH-2024515,Sudiksha Sahni,19,Female,Urban,Private Unaided,645000,69.9,77.2,72.6,0,0,27.5,48.75,0
+SCH-2024516,Aryan Shetty,18,Female,Urban,Private Aided,585000,79.1,76.3,67.4,1,0,49.3,70.78,0
+SCH-2024517,Vrinda Kakar,19,Female,Semi-Urban,Government,75000,81.2,74.6,63.5,1,1,97.2,87.62,1
+SCH-2024518,Anusha Sahni,18,Female,Rural,Private Aided,260000,80.9,74.8,55.9,1,0,77.7,78.45,1
+SCH-2024519,Naveen Hayer,20,Female,Semi-Urban,Private Aided,145000,61.4,83.5,16.7,0,0,74.3,68.25,0
+SCH-2024520,Vidhi Prabhakar,20,Female,Urban,Private Aided,375000,66.4,79.2,56.8,0,0,50.8,61.24,0
+SCH-2024521,Krishna Bhatti,21,Female,Urban,Private Unaided,1000000,71.7,73.2,73.4,0,0,5.0,45.4,0
+SCH-2024522,Barkha Solanki,18,Female,Rural,Government,110000,60.4,74.9,25.1,0,0,86.8,69.91,0
+SCH-2024523,Madhavi Gala,19,Male,Semi-Urban,Private Aided,80000,66.1,75.9,64.5,0,0,84.8,70.06,0
+SCH-2024524,Dalaja Dalal,21,Female,Rural,Private Aided,85000,69.1,78.2,50.5,1,0,97.2,82.74,1
+SCH-2024525,Daksha Tank,19,Female,Semi-Urban,Private Unaided,450000,74.4,81.7,70.4,0,0,52.6,66.97,0
+SCH-2024526,Abha Garg,19,Female,Rural,Government,105000,96.8,94.2,39.8,1,1,98.0,93.95,1
+SCH-2024527,Lakshit Naidu,21,Male,Semi-Urban,Government,130000,86.5,80.9,46.0,0,0,74.7,78.95,1
+SCH-2024528,Chakrika Basak,19,Male,Urban,Government,90000,85.2,79.7,71.7,0,0,80.8,77.05,1
+SCH-2024529,Daksha Srinivas,20,Female,Semi-Urban,Private Aided,70000,82.0,77.9,28.5,0,0,86.4,76.07,0
+SCH-2024530,Onveer Chada,18,Female,Urban,Private Unaided,145000,71.7,84.2,60.8,0,0,68.6,74.52,0
+SCH-2024531,Amara Prakash,19,Male,Semi-Urban,Private Aided,260000,82.0,72.0,58.1,0,0,63.0,70.14,0
+SCH-2024532,Gopal Maharaj,19,Female,Urban,Private Aided,70000,83.6,77.6,80.2,1,1,92.5,84.44,1
+SCH-2024533,Chameli Gola,18,Male,Semi-Urban,Private Aided,145000,66.9,78.5,50.6,0,0,75.5,71.69,0
+SCH-2024534,Harish Verma,18,Female,Rural,Government,400000,52.2,73.3,63.3,1,0,69.1,63.1,0
+SCH-2024535,Darika Sachar,19,Female,Semi-Urban,Private Unaided,505000,73.8,75.1,74.1,1,0,58.4,66.4,0
+SCH-2024536,Adweta Mitter,18,Female,Urban,Private Aided,280000,75.8,75.0,15.1,1,0,74.6,72.03,0
+SCH-2024537,Gaurang Rajan,20,Female,Semi-Urban,Private Unaided,460000,79.8,85.7,98.0,0,1,49.6,68.49,0
+SCH-2024538,Pallavi Prasad,18,Male,Semi-Urban,Government,145000,76.4,69.6,47.5,0,0,75.7,69.21,0
+SCH-2024539,Nimrat Chaudry,19,Male,Rural,Government,185000,67.0,63.3,52.6,1,0,87.7,75.11,0
+SCH-2024540,Tanvi Sankar,19,Male,Rural,Government,90000,68.4,71.7,36.9,1,0,96.5,76.13,0
+SCH-2024541,Maanav Butala,18,Male,Urban,Private Unaided,695000,64.5,78.2,68.8,0,0,26.0,57.07,0
+SCH-2024542,Ishita Gokhale,19,Female,Semi-Urban,Private Aided,180000,60.5,73.1,45.9,0,0,74.3,64.42,0
+SCH-2024543,Vasatika Bala,24,Male,Rural,Private Aided,625000,79.4,77.4,76.3,0,0,45.5,65.35,0
+SCH-2024544,Reva Luthra,18,Male,Semi-Urban,Private Aided,115000,56.7,72.5,42.0,1,0,87.9,72.74,0
+SCH-2024545,Zaitra Kala,19,Female,Urban,Private Unaided,260000,89.5,91.5,52.9,0,1,64.4,79.99,1
+SCH-2024546,Yashodhara Chacko,19,Female,Rural,Private Aided,300000,63.8,63.6,35.6,0,0,66.5,58.99,0
+SCH-2024547,Zayan Som,19,Female,Rural,Private Aided,65000,71.3,70.5,66.7,1,0,93.6,77.71,1
+SCH-2024548,Farhan Srinivasan,19,Female,Rural,Government,55000,76.4,68.8,44.8,0,1,84.6,73.55,0
+SCH-2024549,Falak Nigam,19,Female,Semi-Urban,Government,50000,84.7,82.1,79.8,1,0,93.5,90.99,1
+SCH-2024550,Dalbir Sunder,19,Female,Rural,Private Aided,85000,80.5,77.3,27.3,0,0,83.3,77.58,1
+SCH-2024551,Rayaan Pillai,19,Female,Urban,Private Unaided,780000,50.4,55.6,73.0,0,0,18.5,43.92,0
+SCH-2024552,Vansha Din,19,Female,Semi-Urban,Private Aided,125000,74.2,77.2,64.0,0,0,76.8,72.35,0
+SCH-2024553,Aishani Majumdar,19,Male,Urban,Government,90000,79.8,81.0,83.8,1,0,92.5,88.4,1
+SCH-2024554,Maya Sarna,19,Female,Semi-Urban,Private Unaided,470000,62.5,70.2,81.5,0,0,48.1,54.22,0
+SCH-2024555,Dalbir Khanna,19,Male,Rural,Private Aided,695000,85.8,77.4,52.6,0,1,31.3,56.73,0
+SCH-2024556,Ekanta Bhasin,21,Male,Urban,Private Aided,95000,82.5,79.4,45.0,0,0,76.0,77.87,1
+SCH-2024557,Isaiah Nayak,21,Male,Urban,Private Aided,750000,69.2,67.3,52.3,0,0,25.7,51.03,0
+SCH-2024558,Nandini Chana,20,Male,Rural,Private Aided,185000,66.7,67.7,58.4,1,0,92.3,80.3,1
+SCH-2024559,Anthony Walia,22,Male,Semi-Urban,Private Aided,210000,66.3,69.6,86.0,1,0,79.8,76.96,0
+SCH-2024560,Keya Rana,18,Male,Urban,Private Unaided,735000,74.6,78.5,48.2,1,0,38.3,58.67,0
+SCH-2024561,Rehaan Chandra,18,Male,Rural,Government,50000,85.9,68.0,38.1,1,0,98.0,87.33,1
+SCH-2024562,Jhalak Mane,21,Male,Rural,Private Aided,320000,85.4,84.8,53.7,1,0,83.2,83.62,1
+SCH-2024563,Chandresh Vasa,19,Male,Semi-Urban,Government,80000,74.0,76.2,40.5,1,0,88.5,78.41,1
+SCH-2024564,Rudra Grover,18,Male,Semi-Urban,Government,75000,80.2,81.6,61.1,1,0,96.7,90.8,1
+SCH-2024565,Tanay Pillai,19,Male,Rural,Private Aided,50000,65.7,79.6,33.2,0,0,85.9,74.21,0
+SCH-2024566,Chakradev Basak,20,Male,Urban,Private Unaided,1000000,70.2,89.5,77.7,0,0,5.0,48.19,0
+SCH-2024567,Qabil Divan,20,Female,Rural,Private Aided,160000,62.5,77.6,58.4,1,0,94.6,77.47,1
+SCH-2024568,Sudiksha Wable,19,Female,Urban,Private Unaided,300000,78.4,77.9,60.4,0,0,64.1,71.43,0
+SCH-2024569,Panini Madan,18,Female,Rural,Government,100000,82.4,78.8,53.5,1,0,94.2,84.31,1
+SCH-2024570,Xavier Ramachandran,22,Male,Semi-Urban,Government,160000,88.6,83.9,28.2,1,1,83.1,83.69,1
+SCH-2024571,Xalak Devan,20,Female,Semi-Urban,Private Aided,120000,89.6,74.7,63.7,1,0,89.3,85.23,1
+SCH-2024572,Lakshmi Dewan,18,Male,Rural,Private Aided,260000,54.6,70.4,42.9,0,0,72.4,66.15,0
+SCH-2024573,Hemangini Kade,19,Female,Rural,Private Aided,110000,76.4,70.1,34.9,1,1,97.1,80.81,1
+SCH-2024574,Nathaniel Choudhary,21,Male,Semi-Urban,Government,50000,81.8,86.4,87.8,0,1,89.7,83.84,1
+SCH-2024575,Kala Dewan,20,Female,Urban,Private Aided,130000,73.8,78.3,46.4,1,0,86.6,77.26,1
+SCH-2024576,Tanmayi Mishra,18,Male,Rural,Private Unaided,115000,79.0,69.9,39.6,0,0,84.8,75.61,0
+SCH-2024577,Manthan Sura,22,Female,Semi-Urban,Government,50000,78.8,91.1,31.1,1,0,98.0,85.28,1
+SCH-2024578,Viraj Nayak,19,Female,Rural,Government,200000,73.2,70.1,47.7,0,1,77.3,69.08,0
+SCH-2024579,Aarush Uppal,20,Female,Semi-Urban,Private Aided,145000,72.9,67.4,73.4,0,0,74.1,69.89,0
+SCH-2024580,Nisha Bhatti,19,Female,Urban,Government,115000,88.8,92.5,58.5,0,0,75.2,81.44,1
+SCH-2024581,Bimala Nori,18,Female,Semi-Urban,Private Unaided,290000,76.0,67.4,53.2,1,0,75.3,72.26,0
+SCH-2024582,Jyoti Bhasin,21,Female,Semi-Urban,Private Unaided,135000,70.9,76.9,83.4,0,0,79.2,74.56,0
+SCH-2024583,Noah Behl,18,Male,Rural,Private Aided,370000,81.8,84.6,15.7,1,1,69.1,74.66,0
+SCH-2024584,Avi Mallick,18,Female,Semi-Urban,Private Aided,295000,66.8,76.9,64.4,1,0,76.5,76.27,0
+SCH-2024585,Zaitra Roy,19,Female,Rural,Government,50000,82.5,65.3,40.8,1,0,96.0,83.22,1
+SCH-2024586,Dalbir Tandon,20,Male,Urban,Private Aided,220000,83.8,91.2,62.1,0,0,66.2,77.83,1
+SCH-2024587,Charvi Loke,18,Female,Semi-Urban,Government,105000,64.3,67.8,55.6,1,0,87.6,75.92,0
+SCH-2024588,Banjeet Ganesh,22,Male,Urban,Private Unaided,615000,72.1,74.1,44.7,0,0,32.5,58.26,0
+SCH-2024589,Oliver Dhar,20,Male,Semi-Urban,Government,75000,80.9,73.0,35.8,1,0,96.7,87.11,1
+SCH-2024590,Yashodhara Choudhury,18,Male,Semi-Urban,Private Aided,335000,74.7,89.1,42.6,0,0,62.7,70.74,0
+SCH-2024591,Rishi Oommen,19,Male,Semi-Urban,Private Unaided,520000,79.0,69.2,60.4,0,0,41.9,63.22,0
+SCH-2024592,Vaishnavi Rama,19,Male,Rural,Private Aided,220000,70.7,74.0,47.7,1,0,84.7,77.07,1
+SCH-2024593,Lohit Manne,23,Female,Rural,Private Aided,240000,88.1,85.9,66.6,1,0,79.1,83.42,1
+SCH-2024594,Aadhya Sekhon,19,Male,Semi-Urban,Government,110000,79.3,74.2,12.6,0,0,72.9,65.74,0
+SCH-2024595,Omya Singhal,20,Male,Urban,Private Aided,65000,74.3,64.7,53.5,0,0,79.9,72.53,0
+SCH-2024596,Kavya Ben,20,Male,Urban,Private Unaided,1000000,83.4,79.0,74.9,1,0,18.2,56.56,0
+SCH-2024597,Yatin Shankar,21,Male,Semi-Urban,Government,55000,67.8,85.2,47.3,0,0,77.7,71.94,0
+SCH-2024598,Eshana Mahajan,23,Male,Semi-Urban,Government,75000,85.9,68.5,52.7,0,0,82.8,76.93,0
+SCH-2024599,Nicholas Batta,19,Female,Rural,Private Unaided,645000,85.4,81.5,69.3,0,0,34.3,64.28,0
+SCH-2024600,Tanveer Dasgupta,19,Male,Semi-Urban,Government,185000,79.2,80.8,45.5,1,1,85.8,80.99,1
+SCH-2024601,Jai Sarna,19,Female,Semi-Urban,Private Unaided,580000,58.5,64.1,41.3,1,0,48.4,50.18,0
+SCH-2024602,Leena Khare,19,Female,Rural,Private Aided,270000,77.4,77.0,80.0,1,0,75.9,82.29,1
+SCH-2024603,Yashica Nagi,18,Male,Rural,Government,85000,75.6,77.1,61.2,1,0,95.2,87.24,1
+SCH-2024604,Yagnesh Baria,19,Female,Rural,Government,155000,53.3,75.3,45.5,0,0,74.3,65.6,0
+SCH-2024605,Aahana Saxena,18,Female,Rural,Government,50000,86.7,96.8,53.4,1,0,98.0,89.8,1
+SCH-2024606,Zinal Bhatt,21,Female,Rural,Private Aided,60000,60.8,74.6,39.1,1,0,97.5,73.99,0
+SCH-2024607,Sanya Gandhi,20,Male,Rural,Government,145000,60.1,75.9,33.9,0,0,78.6,65.83,0
+SCH-2024608,Pushti Din,19,Male,Rural,Government,55000,83.5,76.4,58.9,0,0,90.4,83.9,1
+SCH-2024609,Bhavini Ravi,18,Female,Urban,Government,225000,54.6,65.4,71.3,0,0,67.3,60.85,0
+SCH-2024610,Yagnesh Walla,19,Male,Semi-Urban,Private Aided,340000,70.6,74.5,75.8,0,1,59.0,65.25,0
+SCH-2024611,Oeshi Kunda,23,Male,Rural,Government,135000,76.5,75.8,49.2,0,0,77.6,76.14,0
+SCH-2024612,Xalak Pai,20,Female,Rural,Government,65000,71.5,56.3,69.5,1,0,98.0,81.32,1
+SCH-2024613,Kamya De,19,Female,Urban,Private Unaided,195000,69.3,69.4,78.5,0,0,69.2,72.98,0
+SCH-2024614,Teerth Krishna,20,Male,Urban,Private Aided,300000,74.1,58.6,37.5,0,0,61.1,66.55,0
+SCH-2024615,Widisha Bains,18,Female,Urban,Private Unaided,390000,55.2,78.1,75.4,0,1,53.1,62.52,0
+SCH-2024616,Xavier Chakrabarti,18,Female,Rural,Government,135000,87.5,77.7,38.9,1,0,96.4,87.91,1
+SCH-2024617,Naveen Raju,19,Male,Semi-Urban,Government,50000,75.1,79.9,75.9,1,0,94.5,84.7,1
+SCH-2024618,Chaaya Ahuja,19,Female,Semi-Urban,Government,85000,85.3,82.0,47.9,0,0,78.5,78.98,1
+SCH-2024619,Ijaya Sidhu,20,Female,Urban,Private Unaided,640000,62.3,80.3,65.5,0,0,33.4,54.15,0
+SCH-2024620,Prisha Nath,19,Male,Semi-Urban,Government,115000,77.9,72.0,9.7,1,0,88.4,72.12,0
+SCH-2024621,Viraj Majumdar,18,Female,Urban,Private Unaided,465000,68.6,70.2,56.0,0,1,45.0,56.69,0
+SCH-2024622,Ekiya Khanna,18,Male,Rural,Government,75000,58.3,70.7,19.3,1,1,93.5,77.0,1
+SCH-2024623,Inaya Dhawan,19,Female,Semi-Urban,Private Aided,290000,72.0,80.0,74.4,1,0,73.6,81.51,1
+SCH-2024624,Mahika Rege,22,Female,Semi-Urban,Private Aided,230000,90.9,79.1,64.2,0,0,71.1,72.29,0
+SCH-2024625,Girindra Bhat,19,Female,Rural,Government,115000,83.8,76.0,52.4,1,0,94.5,86.94,1
+SCH-2024626,Zilmil Sha,18,Female,Urban,Private Unaided,335000,63.5,64.4,69.3,0,0,56.5,62.22,0
+SCH-2024627,Anay Bedi,19,Male,Rural,Private Unaided,180000,73.3,71.9,39.6,0,0,77.2,69.46,0
+SCH-2024628,Ridhi Karpe,18,Male,Urban,Private Aided,435000,94.0,74.8,75.8,1,0,64.3,80.84,1
+SCH-2024629,Anita Chaudhary,19,Female,Rural,Government,105000,75.0,80.9,67.3,1,0,98.0,87.51,1
+SCH-2024630,Abdul Mangal,19,Female,Rural,Private Aided,225000,75.3,83.0,66.1,1,0,84.9,75.87,0
+SCH-2024631,Maanav Kapoor,21,Female,Semi-Urban,Government,125000,70.5,65.3,19.6,0,0,78.0,65.83,0
+SCH-2024632,Frederick Yadav,20,Male,Rural,Private Aided,195000,86.3,84.5,57.4,0,0,69.4,75.75,0
+SCH-2024633,Daksha Tella,19,Female,Rural,Government,120000,68.2,72.1,29.5,0,1,83.6,68.81,0
+SCH-2024634,Chameli Gandhi,21,Female,Semi-Urban,Private Aided,210000,82.8,84.1,63.6,0,1,72.6,76.7,0
+SCH-2024635,Gopal Khare,20,Male,Semi-Urban,Government,65000,85.2,83.6,55.7,1,1,88.1,83.21,1
+SCH-2024636,Michael Kapadia,20,Female,Semi-Urban,Private Unaided,340000,82.7,78.7,46.6,0,0,59.1,68.9,0
+SCH-2024637,Oni Garde,19,Male,Rural,Private Aided,75000,75.8,80.2,65.4,0,0,89.5,84.51,1
+SCH-2024638,Sai Bali,21,Female,Rural,Government,50000,54.1,73.1,39.3,1,0,97.9,71.66,0
+SCH-2024639,Mohammed Desai,18,Male,Rural,Government,85000,69.5,74.3,66.0,1,0,96.0,81.53,1
+SCH-2024640,Anita Divan,19,Male,Semi-Urban,Government,110000,59.7,67.7,40.4,1,0,87.4,72.69,0
+SCH-2024641,Qasim Pai,18,Male,Rural,Private Aided,70000,87.6,79.4,53.9,1,1,98.0,87.91,1
+SCH-2024642,Indira Bava,19,Female,Semi-Urban,Private Aided,125000,68.4,79.5,58.2,0,0,74.2,69.25,0
+SCH-2024643,Chaitaly Narayanan,19,Male,Urban,Private Unaided,695000,85.9,85.3,48.0,1,0,44.1,69.78,0
+SCH-2024644,Utkarsh Handa,21,Male,Rural,Private Aided,360000,60.0,69.0,82.5,1,0,68.2,67.38,0
+SCH-2024645,Noah Deshmukh,18,Male,Rural,Government,105000,67.7,85.1,75.8,1,0,92.4,83.09,1
+SCH-2024646,Simon Nagarajan,19,Male,Rural,Government,125000,55.2,68.1,34.3,1,0,90.4,68.48,0
+SCH-2024647,Neelima Krishna,18,Male,Rural,Private Aided,280000,72.0,74.4,39.3,1,0,76.6,71.59,0
+SCH-2024648,Waida Borde,19,Female,Urban,Government,165000,59.3,67.4,40.7,0,0,75.3,61.44,0
+SCH-2024649,Darsh Chowdhury,19,Female,Semi-Urban,Private Aided,305000,81.1,75.3,85.1,1,0,74.1,78.2,1
+SCH-2024650,Girish Narain,18,Female,Urban,Private Aided,165000,88.2,78.5,50.6,0,0,70.8,78.88,1
+SCH-2024651,Krishna Gokhale,20,Male,Semi-Urban,Private Aided,135000,73.8,82.5,33.4,0,0,72.3,68.74,0
+SCH-2024652,Varsha Jha,19,Female,Urban,Private Unaided,400000,72.3,80.7,70.5,0,1,55.1,67.34,0
+SCH-2024653,Rachita Chandra,18,Male,Rural,Private Aided,125000,81.2,75.4,55.5,0,0,77.3,76.21,0
+SCH-2024654,Vedhika Bhandari,18,Female,Semi-Urban,Private Aided,240000,78.8,73.4,85.1,0,0,63.7,76.21,0
+SCH-2024655,Tamanna Manda,22,Female,Semi-Urban,Government,60000,86.4,82.1,23.2,0,0,83.1,78.08,1
+SCH-2024656,Mugdha Misra,21,Male,Urban,Private Unaided,335000,51.4,69.2,67.9,0,0,59.8,54.29,0
+SCH-2024657,Shravya Chatterjee,18,Male,Rural,Private Unaided,590000,80.5,86.9,89.4,0,0,41.3,67.47,0
+SCH-2024658,Owen Bansal,20,Male,Urban,Private Aided,765000,50.1,69.2,77.3,1,0,30.6,51.17,0
+SCH-2024659,Victor Lad,20,Male,Rural,Government,105000,61.4,69.7,38.9,0,0,87.1,73.14,0
+SCH-2024660,Vasatika Mistry,18,Male,Semi-Urban,Government,190000,59.8,71.8,55.8,1,0,85.3,69.96,0
+SCH-2024661,Tanvi Sahota,19,Male,Rural,Government,200000,68.4,77.1,67.0,1,0,86.5,75.04,0
+SCH-2024662,Zayan Ratta,19,Female,Semi-Urban,Private Aided,265000,73.7,67.1,67.3,0,1,70.3,65.64,0
+SCH-2024663,Yachana Handa,19,Male,Semi-Urban,Government,220000,80.0,76.4,48.5,0,0,71.0,72.53,0
+SCH-2024664,Farhan Patil,21,Male,Rural,Government,50000,70.4,68.0,49.0,1,0,98.0,83.58,1
+SCH-2024665,Chandran Nadig,20,Female,Semi-Urban,Government,105000,93.4,71.4,59.2,1,0,90.6,88.52,1
+SCH-2024666,Teerth Bir,18,Male,Rural,Private Aided,195000,75.0,77.8,23.2,1,0,83.5,76.85,0
+SCH-2024667,Om Som,24,Female,Rural,Private Aided,180000,67.9,71.6,61.4,1,0,85.3,79.1,1
+SCH-2024668,Frado Purohit,18,Female,Urban,Private Aided,190000,62.0,77.0,57.6,0,0,70.5,70.16,0
+SCH-2024669,Harita Dutta,18,Female,Semi-Urban,Private Unaided,250000,50.2,73.0,76.4,0,0,57.1,59.62,0
+SCH-2024670,Balveer Wadhwa,19,Male,Rural,Government,85000,74.7,62.9,53.4,0,0,86.0,77.06,1
+SCH-2024671,Bimala Mohan,20,Female,Rural,Government,70000,96.2,80.3,29.5,1,0,98.0,87.64,1
+SCH-2024672,Lakshit Handa,19,Female,Semi-Urban,Private Aided,155000,90.0,87.6,23.8,0,0,78.5,76.26,0
+SCH-2024673,Isaac Nagar,18,Female,Rural,Private Aided,225000,67.3,89.9,85.6,1,0,83.0,76.2,0
+SCH-2024674,Chaitaly Setty,20,Male,Urban,Private Unaided,1000000,67.2,73.4,81.8,0,0,5.3,42.31,0
+SCH-2024675,Udant Hari,20,Male,Rural,Private Aided,335000,77.6,89.3,66.9,1,0,81.5,81.71,1
+SCH-2024676,Ishita Jha,19,Female,Urban,Private Unaided,125000,67.4,65.1,41.4,0,0,74.9,75.12,0
+SCH-2024677,Ati Sunder,18,Male,Rural,Government,270000,90.7,85.5,44.5,0,0,66.1,79.22,1
+SCH-2024678,Gabriel Bobal,23,Male,Urban,Private Aided,110000,57.1,71.1,50.0,1,0,90.9,72.62,0
+SCH-2024679,Tanmayi Bassi,19,Female,Semi-Urban,Private Aided,405000,68.6,81.0,71.9,1,1,67.5,77.8,1
+SCH-2024680,Tanmayi Walia,22,Female,Semi-Urban,Private Aided,200000,72.2,82.2,67.1,0,0,70.6,70.84,0
+SCH-2024681,Chandran Mannan,18,Female,Semi-Urban,Private Unaided,705000,86.1,82.4,63.5,0,0,30.2,61.52,0
+SCH-2024682,Ojasvi Vora,19,Male,Semi-Urban,Government,275000,89.4,79.9,47.6,0,1,70.5,76.61,0
+SCH-2024683,Caleb Parmar,19,Male,Semi-Urban,Private Aided,195000,88.6,71.8,52.1,0,0,71.9,75.2,0
+SCH-2024684,Joshua Dugar,18,Female,Urban,Private Aided,270000,93.4,80.5,37.8,1,0,78.1,86.81,1
+SCH-2024685,Rachita Dewan,21,Female,Rural,Government,65000,93.1,93.8,53.0,1,0,94.9,95.98,1
+SCH-2024686,Omaja Kumar,19,Male,Rural,Government,115000,62.0,77.7,74.5,1,0,89.3,77.64,1
+SCH-2024687,Champak Aggarwal,19,Male,Semi-Urban,Private Aided,170000,72.4,83.4,55.7,0,0,71.8,73.07,0
+SCH-2024688,Amol Dhar,19,Male,Rural,Government,225000,69.2,80.5,10.9,1,0,82.4,75.92,0
+SCH-2024689,Ansh Korpal,20,Male,Rural,Private Aided,90000,94.4,77.9,37.1,0,0,86.7,85.34,1
+SCH-2024690,Manya Nadig,19,Male,Semi-Urban,Government,325000,84.1,86.3,50.6,0,0,62.0,73.65,0
+SCH-2024691,Tanmayi Sarkar,20,Male,Rural,Government,145000,86.3,80.9,44.3,0,0,82.6,80.13,1
+SCH-2024692,Krisha Sridhar,19,Female,Rural,Government,150000,72.8,84.6,55.3,1,0,90.0,81.78,1
+SCH-2024693,Ekavir Bhattacharyya,20,Female,Urban,Private Aided,295000,72.6,79.9,17.9,1,0,72.2,72.0,0
+SCH-2024694,Ubika Dugar,19,Male,Urban,Private Unaided,245000,65.8,69.1,19.5,0,1,61.8,62.68,0
+SCH-2024695,Nakul Char,19,Female,Rural,Government,50000,84.1,71.7,48.5,1,0,97.6,87.67,1
+SCH-2024696,Vasana Gara,19,Female,Semi-Urban,Government,170000,84.7,92.4,71.5,1,0,88.0,87.5,1
+SCH-2024697,Anjali Chopra,19,Male,Urban,Private Aided,110000,66.9,81.0,39.9,0,0,75.0,65.88,0
+SCH-2024698,Ekiya Dayal,19,Female,Urban,Private Unaided,280000,56.6,66.1,73.8,0,0,60.9,62.84,0
+SCH-2024699,Chaman Rattan,19,Male,Semi-Urban,Government,230000,75.6,77.1,64.1,0,0,74.2,73.24,0
+SCH-2024700,Pranit Toor,21,Female,Urban,Private Unaided,315000,99.5,87.8,43.8,0,0,59.9,79.27,1
+SCH-2024701,Charita Dubey,18,Female,Rural,Government,100000,91.2,83.8,28.7,1,0,86.4,84.64,1
+SCH-2024702,Balendra Sani,23,Female,Semi-Urban,Private Aided,180000,69.3,70.1,54.7,0,0,70.4,67.12,0
+SCH-2024703,Rayaan Doctor,19,Male,Rural,Private Aided,185000,63.8,75.4,86.3,0,0,78.3,69.22,0
+SCH-2024704,Yash Master,22,Male,Rural,Government,100000,83.5,77.3,68.6,0,0,86.5,83.82,1
+SCH-2024705,Upasna Halder,18,Male,Rural,Government,50000,72.7,76.0,38.7,1,0,98.0,85.75,1
+SCH-2024706,Reyansh Sheth,20,Male,Rural,Government,210000,77.7,78.7,39.6,0,0,68.6,67.69,0
+SCH-2024707,Laban Deshmukh,20,Male,Semi-Urban,Private Unaided,365000,77.1,84.8,53.1,0,0,57.9,64.18,0
+SCH-2024708,Yauvani Zachariah,18,Female,Urban,Private Unaided,130000,61.0,73.6,91.5,0,0,73.2,74.16,0
+SCH-2024709,Wahab Bhat,19,Female,Semi-Urban,Government,95000,77.9,73.8,57.1,1,1,95.7,86.68,1
+SCH-2024710,Mugdha Chahal,21,Male,Rural,Private Aided,250000,75.0,79.3,69.7,0,0,67.2,73.63,0
+SCH-2024711,Mohini Radhakrishnan,19,Female,Semi-Urban,Private Aided,350000,69.4,68.8,49.8,0,0,59.0,61.58,0
+SCH-2024712,Yasti Shukla,19,Female,Urban,Government,110000,69.8,63.3,48.2,1,0,93.3,75.96,0
+SCH-2024713,Yauvani Nagar,20,Male,Semi-Urban,Government,85000,74.7,77.3,20.3,1,0,96.3,82.06,1
+SCH-2024714,Hemangini Doctor,19,Female,Rural,Government,160000,88.0,78.6,74.6,1,0,86.2,86.76,1
+SCH-2024715,Ucchal Sabharwal,19,Male,Urban,Government,115000,66.0,75.8,71.4,1,0,85.4,75.64,0
+SCH-2024716,Samarth Ranganathan,19,Male,Urban,Private Aided,170000,92.0,71.9,61.0,0,0,75.8,80.29,1
+SCH-2024717,Lakshmi Lal,20,Female,Semi-Urban,Private Unaided,105000,54.8,63.7,71.7,0,0,76.7,64.2,0
+SCH-2024718,Nidhi Chakrabarti,19,Male,Rural,Government,185000,76.8,88.0,42.3,1,0,85.8,82.7,1
+SCH-2024719,Yashasvi Goswami,18,Female,Rural,Private Aided,305000,68.7,84.8,71.3,1,1,80.1,75.02,0
+SCH-2024720,Geetika Kumer,18,Female,Urban,Private Unaided,775000,99.5,81.7,76.7,0,1,24.1,65.96,0
+SCH-2024721,Tanvi Baral,18,Female,Rural,Private Unaided,655000,98.0,86.0,48.3,1,0,44.6,77.0,1
+SCH-2024722,Dayita Sachdev,18,Female,Urban,Private Aided,80000,65.1,83.7,41.3,0,0,84.0,73.11,0
+SCH-2024723,Pranav Raghavan,18,Female,Semi-Urban,Government,90000,77.3,77.9,16.9,1,0,93.2,81.92,1
+SCH-2024724,Wishi Ramaswamy,19,Male,Urban,Private Aided,290000,93.9,85.6,70.0,1,0,73.3,86.31,1
+SCH-2024725,Daksha Brahmbhatt,18,Male,Rural,Private Aided,320000,99.5,69.9,45.3,0,0,67.6,79.6,1
+SCH-2024726,Yuvraj Dyal,20,Female,Semi-Urban,Private Aided,500000,79.0,71.9,85.6,0,0,44.3,66.59,0
+SCH-2024727,Zaid Chaudry,20,Male,Urban,Private Unaided,265000,91.1,87.4,63.3,0,0,63.8,83.95,1
+SCH-2024728,Fitan Shanker,20,Male,Rural,Government,70000,64.4,62.6,60.4,0,0,85.5,74.75,0
+SCH-2024729,Hiral Murthy,22,Male,Semi-Urban,Government,80000,64.4,63.8,50.2,1,0,91.0,76.48,0
+SCH-2024730,George Narayan,18,Female,Urban,Private Unaided,110000,72.5,80.5,73.1,0,0,75.1,72.43,0
+SCH-2024731,Aachal Aggarwal,20,Female,Urban,Private Unaided,485000,55.7,77.5,76.1,0,1,44.3,55.91,0
+SCH-2024732,Chaman Nayar,18,Male,Urban,Private Aided,110000,85.6,69.3,47.5,0,0,81.6,81.65,1
+SCH-2024733,Barkha Gokhale,19,Female,Semi-Urban,Private Unaided,345000,78.8,77.3,52.3,0,0,59.6,70.0,0
+SCH-2024734,Niharika Mani,22,Female,Rural,Private Aided,120000,85.9,80.0,26.1,1,0,98.0,87.06,1
+SCH-2024735,Fariq Chatterjee,19,Female,Rural,Government,165000,78.7,80.5,22.0,0,0,85.7,73.69,0
+SCH-2024736,Tanish Dubey,19,Male,Semi-Urban,Government,105000,79.6,77.5,23.5,0,0,79.7,74.92,0
+SCH-2024737,Ishanvi Dayal,19,Male,Rural,Private Unaided,115000,72.8,75.0,89.1,0,0,85.4,79.22,1
+SCH-2024738,Dayita Dube,18,Male,Urban,Private Unaided,275000,72.4,70.1,59.7,0,0,65.9,68.16,0
+SCH-2024739,Andrew Dalal,18,Male,Urban,Private Unaided,490000,89.8,80.7,34.5,0,1,43.2,64.14,0
+SCH-2024740,Wahab Patel,18,Female,Urban,Government,130000,69.5,77.2,61.4,0,0,74.1,73.02,0
+SCH-2024741,Naksh Naidu,19,Female,Urban,Government,255000,87.1,71.8,58.7,1,1,75.8,84.22,1
+SCH-2024742,Siddharth Kalla,22,Female,Semi-Urban,Private Aided,215000,82.2,71.8,41.5,0,1,65.4,71.4,0
+SCH-2024743,Noah Chopra,18,Male,Semi-Urban,Private Aided,270000,73.3,71.2,44.9,0,0,69.1,73.82,0
+SCH-2024744,Wahab Krishna,20,Male,Rural,Private Aided,485000,68.0,70.7,44.2,0,0,52.5,59.16,0
+SCH-2024745,Brinda Bala,21,Female,Semi-Urban,Private Aided,220000,73.4,83.9,38.8,1,0,81.6,73.24,0
+SCH-2024746,Zaitra Shan,19,Female,Rural,Government,65000,86.0,74.7,52.0,0,0,86.7,82.74,1
+SCH-2024747,Odika Hari,18,Male,Semi-Urban,Private Unaided,595000,84.5,75.8,67.2,0,1,37.9,61.76,0
+SCH-2024748,Anthony Gole,19,Male,Rural,Government,270000,81.2,82.4,60.0,0,0,67.1,76.47,0
+SCH-2024749,Vidhi Prabhu,21,Female,Rural,Government,50000,66.8,76.6,44.3,0,0,93.4,78.47,1
+SCH-2024750,Ikshita Bajaj,19,Female,Urban,Government,110000,68.8,82.7,5.0,1,0,83.9,73.31,0
+SCH-2024751,Ekansh Mandal,18,Female,Urban,Private Aided,345000,97.1,68.2,45.5,0,0,56.3,78.03,1
+SCH-2024752,Nidhi Wagle,21,Male,Rural,Government,95000,92.5,82.2,54.3,0,0,81.2,81.18,1
+SCH-2024753,Xavier Munshi,19,Female,Rural,Government,155000,72.6,77.5,49.1,1,0,90.5,78.26,1
+SCH-2024754,Chaitaly Sunder,22,Male,Semi-Urban,Government,125000,56.1,82.9,55.2,1,0,87.7,72.78,0
+SCH-2024755,Bahadurjit Ghose,19,Female,Urban,Private Aided,470000,74.7,82.5,47.6,0,0,41.4,61.02,0
+SCH-2024756,Faraj Munshi,19,Female,Rural,Private Unaided,615000,59.5,73.1,65.2,1,0,53.7,65.68,0
+SCH-2024757,Warinder Devi,20,Male,Urban,Government,50000,60.8,60.2,31.6,1,0,93.9,75.42,0
+SCH-2024758,Harish Uppal,20,Male,Rural,Government,155000,74.1,75.5,31.1,1,0,86.9,78.71,1
+SCH-2024759,Nihal Kadakia,19,Female,Rural,Private Aided,155000,80.7,77.0,59.0,1,0,92.6,83.17,1
+SCH-2024760,Nirja Raj,22,Female,Urban,Private Aided,210000,60.6,62.3,98.0,0,0,65.5,67.95,0
+SCH-2024761,Finn Ramakrishnan,19,Female,Urban,Government,85000,84.2,78.7,19.5,1,0,92.9,87.43,1
+SCH-2024762,Fariq Pathak,18,Male,Rural,Private Aided,65000,79.6,71.2,59.5,1,0,97.3,88.33,1
+SCH-2024763,Yoshita Wable,19,Male,Semi-Urban,Private Aided,135000,87.9,78.4,77.7,0,1,75.0,83.81,1
+SCH-2024764,Vansha Walla,18,Male,Urban,Private Unaided,850000,84.8,86.8,41.4,0,0,15.2,53.66,0
+SCH-2024765,Faris Chahal,19,Female,Urban,Private Aided,450000,96.2,86.1,67.1,1,0,61.3,80.59,1
+SCH-2024766,Kala Pall,21,Female,Rural,Private Unaided,1000000,78.3,73.7,69.0,0,0,11.6,51.58,0
+SCH-2024767,Qabil Sankaran,19,Male,Rural,Government,85000,81.2,88.7,73.6,1,1,97.8,92.4,1
+SCH-2024768,Atharv Char,18,Female,Urban,Private Unaided,360000,69.0,67.3,72.0,0,0,50.3,64.37,0
+SCH-2024769,Mugdha Munshi,20,Male,Rural,Private Aided,170000,79.6,79.3,44.5,1,0,87.9,84.04,1
+SCH-2024770,Upasna Wable,19,Male,Semi-Urban,Government,150000,83.3,74.3,75.7,0,0,76.0,78.48,1
+SCH-2024771,Chakrika Kant,20,Male,Urban,Private Unaided,140000,91.9,80.1,67.4,0,0,84.4,86.64,1
+SCH-2024772,Krisha Chada,23,Male,Rural,Government,210000,57.7,88.0,63.6,1,0,84.2,76.27,0
+SCH-2024773,Ekantika Bera,20,Female,Rural,Government,55000,71.4,82.1,61.5,1,0,94.1,86.18,1
+SCH-2024774,Kavya Chopra,18,Female,Rural,Government,115000,58.5,62.7,61.2,0,1,78.8,69.91,0
+SCH-2024775,Priya Khatri,20,Female,Semi-Urban,Private Aided,140000,66.7,63.2,66.5,0,0,76.0,75.25,0
+SCH-2024776,Jack Doctor,20,Male,Urban,Private Unaided,665000,83.3,67.2,43.9,0,0,26.8,55.98,0
+SCH-2024777,Hamsini Doctor,21,Female,Urban,Private Unaided,435000,74.8,65.7,55.5,0,0,46.1,67.44,0
+SCH-2024778,Ishani Parmer,18,Male,Urban,Private Unaided,575000,72.4,73.6,79.8,0,0,30.7,54.15,0
+SCH-2024779,Urmi Soman,19,Male,Urban,Private Unaided,305000,73.7,81.2,75.4,1,0,72.4,79.21,1
+SCH-2024780,Dakshesh Ramaswamy,20,Male,Rural,Government,90000,99.5,82.8,52.7,0,0,77.6,84.99,1
+SCH-2024781,Tanish Wadhwa,18,Male,Urban,Government,55000,99.5,86.5,40.5,0,0,88.1,89.84,1
+SCH-2024782,Mekhala Chaudhary,18,Female,Rural,Government,100000,71.5,79.4,27.2,0,0,84.4,74.04,0
+SCH-2024783,Garima Shan,19,Male,Rural,Government,170000,82.3,75.8,28.8,1,0,91.1,82.96,1
+SCH-2024784,George Som,23,Male,Urban,Private Unaided,1000000,70.7,70.7,79.5,0,0,5.0,46.32,0
+SCH-2024785,Veer Gopal,19,Male,Urban,Private Aided,190000,75.3,79.5,59.1,0,0,70.6,75.39,0
+SCH-2024786,Pushti Rao,19,Male,Semi-Urban,Private Aided,100000,89.6,93.1,33.5,0,1,77.9,80.77,1
+SCH-2024787,Aayush Hayre,22,Female,Rural,Government,140000,72.5,68.9,55.9,1,0,93.1,81.08,1
+SCH-2024788,Keya Pathak,18,Male,Semi-Urban,Government,170000,81.0,79.5,44.9,1,0,85.6,83.2,1
+SCH-2024789,Laksh Chaudhuri,20,Female,Rural,Government,290000,95.2,94.0,56.6,1,1,73.0,86.87,1
+SCH-2024790,Wyatt Pandit,22,Male,Urban,Government,165000,79.0,78.1,19.7,1,0,81.5,80.87,1
+SCH-2024791,Aarna Bhargava,19,Female,Rural,Private Aided,260000,67.3,65.3,78.0,1,0,80.6,79.99,1
+SCH-2024792,Yoshita Naik,18,Female,Rural,Private Aided,50000,75.4,82.8,59.6,1,0,98.0,86.36,1
+SCH-2024793,Vincent Dara,19,Male,Semi-Urban,Private Aided,105000,75.0,72.1,76.6,1,0,90.9,82.41,1
+SCH-2024794,Rachit Manda,20,Female,Urban,Private Unaided,335000,80.0,73.9,98.0,0,0,53.3,70.04,0
+SCH-2024795,Ridhi Sarin,18,Female,Rural,Private Aided,330000,55.0,78.0,72.3,0,0,60.0,65.07,0
+SCH-2024796,Nilima Ravi,20,Female,Urban,Government,65000,59.0,80.1,35.4,1,0,95.7,75.43,0
+SCH-2024797,Dayamai Krishnan,18,Male,Urban,Government,220000,72.6,86.4,68.5,1,0,81.2,84.63,1
+SCH-2024798,Praneel Gaba,21,Male,Rural,Government,135000,86.8,76.9,48.1,1,0,91.9,89.43,1
+SCH-2024799,Anika Badami,18,Female,Rural,Government,115000,85.0,81.1,62.2,1,0,93.1,91.16,1
+SCH-2024800,Manya Ravel,21,Female,Rural,Private Aided,200000,69.5,84.0,31.6,0,0,75.4,65.68,0
+SCH-2024801,Neha Bansal,20,Female,Urban,Private Unaided,245000,81.1,73.1,68.2,0,0,58.4,71.14,0
+SCH-2024802,Upasna Mani,18,Male,Semi-Urban,Government,85000,83.9,73.4,49.8,0,0,78.9,76.6,0
+SCH-2024803,Idika Issac,19,Male,Semi-Urban,Private Aided,330000,66.2,82.2,29.2,1,0,70.7,67.54,0
+SCH-2024804,Jeremiah Dutta,19,Male,Urban,Private Unaided,245000,70.8,82.6,63.4,0,0,65.8,69.39,0
+SCH-2024805,Amruta Buch,21,Female,Rural,Government,185000,63.6,63.8,64.5,0,1,73.0,69.02,0
+SCH-2024806,Sai Sarna,21,Female,Semi-Urban,Private Unaided,180000,65.1,72.1,91.4,0,0,77.3,76.21,0
+SCH-2024807,Lipika Parekh,19,Female,Rural,Private Aided,130000,86.7,78.0,73.9,1,0,95.5,91.01,1
+SCH-2024808,Quincy Sodhi,19,Male,Semi-Urban,Private Aided,170000,62.0,84.5,71.3,0,0,75.3,70.79,0
+SCH-2024809,Lakshit Jhaveri,18,Male,Urban,Private Aided,165000,84.6,89.8,66.9,0,0,71.1,80.58,1
+SCH-2024810,Zayan Lall,19,Female,Rural,Government,205000,71.6,82.2,54.2,0,0,72.6,73.98,0
+SCH-2024811,Tanvi Tandon,22,Male,Rural,Government,125000,72.4,74.1,45.6,1,0,95.1,82.4,1
+SCH-2024812,Nitara Tak,20,Female,Semi-Urban,Private Aided,275000,75.0,78.1,65.5,0,0,66.2,70.84,0
+SCH-2024813,Vasana Luthra,20,Female,Urban,Private Aided,100000,69.3,83.0,54.0,0,1,82.5,73.23,0
+SCH-2024814,Kamya Devan,20,Male,Semi-Urban,Government,135000,85.2,82.1,51.9,0,0,80.9,77.62,1
+SCH-2024815,Michael Vig,18,Female,Semi-Urban,Government,135000,62.0,80.0,17.7,1,0,90.2,71.8,0
+SCH-2024816,Varenya Borde,20,Female,Urban,Private Unaided,430000,67.3,64.5,71.8,1,0,59.8,67.18,0
+SCH-2024817,Jagrati Bala,19,Male,Semi-Urban,Government,60000,74.7,85.5,62.3,1,0,95.5,88.09,1
+SCH-2024818,Wriddhish Bandi,19,Male,Urban,Private Unaided,315000,73.5,83.2,51.1,1,0,73.0,74.49,0
+SCH-2024819,Avni Goel,20,Female,Urban,Government,50000,71.0,83.3,72.8,0,0,81.8,75.87,0
+SCH-2024820,Anay Bahl,19,Male,Urban,Private Unaided,1000000,88.3,76.9,48.6,0,0,5.0,53.94,0
+SCH-2024821,Adweta Sankaran,19,Male,Urban,Private Aided,295000,78.4,74.6,41.0,1,0,74.9,74.02,0
+SCH-2024822,Zansi Venkataraman,18,Male,Semi-Urban,Government,50000,85.1,86.4,42.6,0,0,87.8,85.03,1
+SCH-2024823,Udant Pradhan,19,Female,Urban,Private Unaided,250000,57.5,71.9,44.5,0,0,66.2,63.44,0
+SCH-2024824,Frederick Chaudhari,22,Male,Urban,Private Unaided,410000,85.4,89.9,81.8,0,0,51.7,71.24,0
+SCH-2024825,Radha Mandal,19,Male,Semi-Urban,Government,65000,85.0,83.6,38.8,1,0,96.8,87.62,1
+SCH-2024826,Aarush Anne,18,Female,Semi-Urban,Private Aided,205000,59.2,66.7,50.4,0,0,69.6,63.63,0
+SCH-2024827,Bhavna Sinha,21,Female,Semi-Urban,Private Aided,130000,59.4,81.3,47.0,0,0,72.3,61.59,0
+SCH-2024828,Irya Iyer,20,Male,Rural,Government,65000,59.9,66.0,56.5,0,0,88.9,71.64,0
+SCH-2024829,Upma Pingle,19,Female,Rural,Private Aided,90000,62.9,72.9,82.2,1,0,98.0,81.6,1
+SCH-2024830,Yuvraj Sood,19,Male,Urban,Private Unaided,685000,78.2,71.9,52.9,0,0,23.8,59.23,0
+SCH-2024831,Samesh Chhabra,20,Male,Semi-Urban,Government,75000,94.0,82.3,32.6,0,1,80.6,79.22,1
+SCH-2024832,Madhav Pal,19,Male,Urban,Private Unaided,250000,62.5,77.8,94.3,0,0,69.8,71.58,0
+SCH-2024833,Aachal Mitra,18,Female,Semi-Urban,Government,90000,71.0,77.1,23.1,0,0,79.4,70.7,0
+SCH-2024834,Falan Vohra,18,Male,Semi-Urban,Private Unaided,550000,84.6,66.6,57.5,0,0,45.1,68.96,0
+SCH-2024835,Meghana Kant,18,Female,Urban,Private Aided,125000,58.0,61.6,66.8,0,0,74.7,68.36,0
+SCH-2024836,Utkarsh Kar,19,Female,Semi-Urban,Private Unaided,335000,75.2,75.0,84.2,0,1,61.4,66.97,0
+SCH-2024837,Daksha Mistry,20,Female,Rural,Private Unaided,1000000,72.2,85.2,61.3,0,0,7.5,46.06,0
+SCH-2024838,Krishna Majumdar,19,Male,Rural,Private Unaided,645000,73.1,81.1,65.9,0,0,35.0,63.19,0
+SCH-2024839,Isaiah Raghavan,18,Female,Semi-Urban,Private Aided,100000,69.1,71.6,55.6,0,0,79.6,72.34,0
+SCH-2024840,Jhalak Kaul,18,Female,Semi-Urban,Private Aided,330000,51.5,64.2,76.1,0,0,59.4,55.85,0
+SCH-2024841,Urishilla Mitra,21,Female,Urban,Private Unaided,455000,89.0,74.6,64.0,0,0,41.9,64.75,0
+SCH-2024842,Aarna Rama,22,Female,Urban,Private Unaided,915000,82.3,73.9,63.8,0,0,7.3,50.18,0
+SCH-2024843,Alka Gopal,18,Male,Urban,Private Aided,65000,75.3,72.7,72.5,0,0,79.8,72.65,0
+SCH-2024844,Yoshita De,19,Male,Urban,Private Aided,175000,85.2,77.7,57.2,1,0,78.0,79.89,1
+SCH-2024845,Akshay Sengupta,22,Male,Rural,Government,215000,69.3,69.1,60.0,0,0,70.1,70.08,0
+SCH-2024846,Sudiksha Chand,20,Male,Rural,Private Aided,380000,60.1,65.8,60.7,0,0,55.3,54.92,0
+SCH-2024847,Yash Nayar,20,Female,Urban,Private Aided,230000,73.3,72.4,57.2,0,0,68.6,68.91,0
+SCH-2024848,Jhalak Shankar,20,Female,Semi-Urban,Private Unaided,295000,76.8,75.3,66.2,0,0,61.8,72.38,0
+SCH-2024849,Girindra Vora,20,Male,Rural,Government,140000,66.5,75.3,34.9,0,0,84.8,72.88,0
+SCH-2024850,Januja Ganguly,23,Female,Urban,Government,450000,83.4,83.9,57.4,1,1,59.2,78.12,1
+SCH-2024851,Viraj Chauhan,19,Female,Semi-Urban,Private Unaided,690000,70.8,81.5,93.7,0,0,29.5,59.58,0
+SCH-2024852,Ishaan Borra,18,Male,Semi-Urban,Government,225000,85.4,73.7,47.8,0,0,67.6,68.98,0
+SCH-2024853,Logan Ganesan,18,Female,Urban,Private Aided,230000,76.5,76.9,56.6,0,0,67.4,72.54,0
+SCH-2024854,Zayyan Pal,20,Male,Semi-Urban,Government,90000,78.8,76.0,60.7,0,0,81.4,78.44,1
+SCH-2024855,Aishani Deshpande,19,Female,Rural,Private Aided,150000,86.5,76.0,75.9,1,1,90.1,87.37,1
+SCH-2024856,Suhani Dora,22,Female,Rural,Private Unaided,260000,66.5,75.6,50.2,1,0,80.6,78.53,1
+SCH-2024857,Adya Sanghvi,19,Female,Urban,Private Unaided,320000,58.8,81.4,43.6,0,0,51.2,56.41,0
+SCH-2024858,Ethan Dixit,24,Male,Semi-Urban,Private Aided,170000,61.2,71.9,55.2,1,0,88.8,70.98,0
+SCH-2024859,Benjamin Sampath,18,Female,Urban,Private Unaided,660000,75.5,80.6,78.4,0,0,33.0,61.03,0
+SCH-2024860,Zashil Anne,20,Female,Rural,Government,75000,70.4,79.6,89.1,1,0,95.4,84.49,1
+SCH-2024861,Triveni Ghose,19,Female,Urban,Private Aided,115000,66.4,66.8,71.3,1,0,85.9,74.32,0
+SCH-2024862,Idika Dey,19,Male,Urban,Government,65000,81.3,72.7,40.6,1,0,96.7,80.69,1
+SCH-2024863,Qadim Grewal,21,Female,Semi-Urban,Private Aided,130000,68.0,68.6,70.3,1,0,97.4,81.86,1
+SCH-2024864,Christopher Toor,19,Female,Rural,Private Aided,240000,58.8,68.7,39.0,1,0,88.0,71.22,0
+SCH-2024865,Jalsa Kalita,20,Male,Semi-Urban,Government,50000,79.2,78.3,29.9,1,0,93.5,84.33,1
+SCH-2024866,Maya Nagarajan,19,Male,Urban,Private Unaided,1000000,67.6,75.9,52.6,0,0,5.9,41.33,0
+SCH-2024867,Chatresh Grewal,19,Female,Rural,Government,95000,73.1,71.8,41.1,1,0,96.4,83.69,1
+SCH-2024868,Nisha Varkey,19,Male,Semi-Urban,Private Aided,75000,67.8,81.5,64.3,0,1,85.1,75.73,0
+SCH-2024869,Dayita Prashad,18,Female,Rural,Government,50000,78.5,79.7,37.6,1,1,97.7,83.86,1
+SCH-2024870,Amara Dass,18,Male,Semi-Urban,Government,145000,90.4,75.9,82.7,0,0,74.1,83.59,1
+SCH-2024871,Parth Chacko,19,Male,Rural,Government,155000,71.1,76.2,62.9,1,0,94.1,83.85,1
+SCH-2024872,Faqid Balan,18,Female,Rural,Government,80000,73.9,78.8,75.8,0,0,77.9,77.5,1
+SCH-2024873,Shravya Boase,20,Male,Urban,Government,110000,89.8,70.5,30.0,0,0,75.9,79.17,1
+SCH-2024874,Chandani Reddy,20,Male,Semi-Urban,Government,95000,76.7,80.4,16.0,1,0,90.9,79.94,1
+SCH-2024875,Udarsh Raman,18,Male,Rural,Government,130000,97.2,92.4,35.6,1,0,91.7,95.06,1
+SCH-2024876,Vasana Iyengar,19,Female,Urban,Private Unaided,500000,78.5,75.8,64.7,0,0,45.3,63.14,0
+SCH-2024877,Bachittar Tank,18,Female,Semi-Urban,Government,70000,76.5,74.9,28.0,0,1,81.1,76.56,0
+SCH-2024878,Jagvi Bassi,18,Female,Rural,Government,85000,83.4,81.1,17.2,1,0,96.3,83.74,1
+SCH-2024879,Tara Sura,21,Male,Semi-Urban,Private Unaided,295000,93.9,82.8,46.0,0,0,65.4,74.65,0
+SCH-2024880,Chasmum Mahal,18,Female,Semi-Urban,Private Aided,180000,83.6,78.5,70.3,1,0,81.9,84.11,1
+SCH-2024881,Anika Kohli,19,Male,Rural,Government,135000,80.2,84.7,24.4,0,1,82.0,74.1,0
+SCH-2024882,Nakul Kamdar,19,Male,Semi-Urban,Private Unaided,655000,55.5,69.4,75.8,0,0,36.1,47.45,0
+SCH-2024883,Harish Khurana,21,Male,Semi-Urban,Government,50000,68.8,75.3,12.7,0,0,84.8,74.16,0
+SCH-2024884,Nathan Sodhi,21,Male,Rural,Private Aided,270000,71.2,81.8,49.0,1,0,78.6,76.95,0
+SCH-2024885,Reyansh Yadav,19,Male,Urban,Private Aided,405000,80.2,82.9,70.1,1,0,62.6,79.19,1
+SCH-2024886,Rishi Sood,18,Male,Urban,Private Unaided,585000,81.2,67.2,55.5,0,0,34.6,61.03,0
+SCH-2024887,Sathvik Sankaran,19,Female,Rural,Private Unaided,350000,74.1,74.0,68.7,1,0,78.6,81.23,1
+SCH-2024888,Jeremiah Gandhi,18,Female,Rural,Government,325000,81.2,68.0,54.7,0,0,59.7,69.64,0
+SCH-2024889,Praneel Zachariah,18,Male,Urban,Private Unaided,265000,93.8,84.2,77.7,0,0,59.6,77.1,1
+SCH-2024890,Owen Bhavsar,18,Male,Rural,Private Aided,195000,91.0,84.3,66.4,0,0,72.6,75.48,0
+SCH-2024891,Osha Loke,19,Male,Rural,Private Unaided,1000000,81.9,72.8,52.9,1,1,16.0,53.68,0
+SCH-2024892,Niharika Kibe,20,Male,Rural,Private Aided,210000,85.4,78.7,33.8,0,0,72.1,72.85,0
+SCH-2024893,Jeet Korpal,19,Female,Rural,Private Aided,180000,69.7,73.2,38.2,0,0,71.2,68.28,0
+SCH-2024894,Jairaj Sachar,19,Male,Urban,Private Unaided,165000,74.1,75.6,69.0,0,0,69.2,71.84,0
+SCH-2024895,Ayush Reddy,19,Male,Semi-Urban,Private Aided,360000,65.2,75.6,97.1,1,0,65.0,74.02,0
+SCH-2024896,Devansh Loke,22,Male,Rural,Government,85000,64.0,67.0,68.5,0,0,85.1,71.61,0
+SCH-2024897,Libni Lad,18,Female,Urban,Private Unaided,585000,88.6,81.7,68.1,0,0,33.2,69.63,0
+SCH-2024898,Umang Dua,19,Male,Rural,Government,250000,62.7,61.1,44.7,1,0,76.6,69.89,0
+SCH-2024899,Anya Khanna,20,Male,Rural,Government,95000,70.2,74.6,44.0,1,0,98.0,83.45,1
+SCH-2024900,Chaaya Mittal,20,Male,Urban,Private Unaided,965000,80.9,86.9,60.2,0,1,5.0,54.01,0
+SCH-2024901,Ayaan Padmanabhan,18,Female,Semi-Urban,Government,65000,62.9,82.4,36.1,0,0,79.6,73.27,0
+SCH-2024902,Unnati Venkatesh,19,Male,Rural,Government,165000,55.5,69.1,43.8,1,1,83.4,66.03,0
+SCH-2024903,Darika Hayre,24,Female,Rural,Private Aided,120000,84.8,82.6,53.5,1,0,96.6,85.12,1
+SCH-2024904,Atharv Gopal,22,Female,Semi-Urban,Private Unaided,660000,72.1,69.3,89.5,1,0,40.2,66.02,0
+SCH-2024905,Naveen Hayre,19,Female,Rural,Private Unaided,170000,88.0,83.8,78.5,1,1,89.0,89.9,1
+SCH-2024906,Anjali Sant,21,Male,Rural,Government,245000,81.4,80.9,31.2,1,0,86.0,77.95,1
+SCH-2024907,Xalak Swamy,19,Male,Rural,Private Aided,280000,77.9,74.9,66.6,1,0,74.8,78.64,1
+SCH-2024908,Bakhshi Gara,21,Male,Rural,Government,210000,75.8,77.7,38.3,0,1,71.8,73.41,0
+SCH-2024909,Arin Pradhan,19,Male,Rural,Government,140000,77.8,78.8,80.7,1,0,93.3,82.69,1
+SCH-2024910,Anthony Krishna,19,Female,Semi-Urban,Government,150000,66.3,79.8,27.6,0,0,77.9,69.65,0
+SCH-2024911,Zayan Dada,21,Female,Semi-Urban,Government,165000,61.2,58.5,62.1,1,0,88.5,75.12,0
+SCH-2024912,Warjas Wason,18,Male,Rural,Government,240000,75.6,77.9,47.1,1,0,82.3,75.66,0
+SCH-2024913,Banjeet Misra,20,Male,Semi-Urban,Private Aided,75000,73.7,76.3,66.4,1,0,92.2,81.61,1
+SCH-2024914,Charan Prashad,21,Male,Urban,Private Aided,200000,62.4,78.0,49.7,1,0,78.6,71.32,0
+SCH-2024915,Chakrika Dubey,18,Female,Semi-Urban,Government,75000,70.9,71.1,35.4,1,0,98.0,83.31,1
+SCH-2024916,Mitesh Chakraborty,20,Male,Rural,Government,55000,71.2,67.3,34.0,0,0,87.4,73.72,0
+SCH-2024917,Jagdish Ravi,18,Female,Urban,Private Aided,285000,85.8,75.7,37.3,0,1,63.4,76.16,0
+SCH-2024918,Ekavir Ravel,20,Male,Urban,Government,55000,78.4,75.2,62.8,1,0,93.7,82.14,1
+SCH-2024919,Lakshit Nigam,20,Female,Semi-Urban,Private Unaided,275000,98.3,85.2,83.9,0,0,64.7,81.65,1
+SCH-2024920,Bhavini Om,18,Female,Semi-Urban,Government,85000,77.5,72.3,39.9,1,0,96.7,85.6,1
+SCH-2024921,Rushil Ray,19,Female,Rural,Government,75000,91.1,82.1,32.8,0,0,87.6,83.6,1
+SCH-2024922,Chatresh Dyal,19,Female,Rural,Private Aided,645000,78.6,82.8,61.3,0,0,33.5,62.31,0
+SCH-2024923,Bahadurjit Pant,20,Male,Semi-Urban,Private Aided,215000,66.1,74.2,56.8,0,0,64.6,68.35,0
+SCH-2024924,Upasna Parmar,18,Male,Semi-Urban,Government,120000,84.6,76.1,58.6,0,0,79.9,77.22,1
+SCH-2024925,Krishna Ravel,22,Male,Urban,Private Unaided,245000,81.6,88.9,35.0,0,0,64.6,67.05,0
+SCH-2024926,Jai Batta,19,Female,Urban,Private Aided,165000,87.3,82.7,51.7,0,0,73.2,75.15,0
+SCH-2024927,Harish Vora,20,Male,Urban,Private Aided,130000,56.6,73.0,69.8,1,0,85.6,74.21,0
+SCH-2024928,Gopal Kamdar,18,Male,Semi-Urban,Government,90000,63.7,70.4,74.8,0,0,77.5,66.59,0
+SCH-2024929,Aarna Contractor,18,Female,Semi-Urban,Private Unaided,275000,87.5,69.1,61.8,0,0,68.9,75.76,0
+SCH-2024930,Theodore Bassi,19,Male,Semi-Urban,Private Aided,365000,64.3,69.4,75.1,0,0,55.0,62.84,0
+SCH-2024931,Bhavna Behl,19,Male,Rural,Private Aided,325000,69.4,71.7,80.8,0,0,65.7,69.56,0
+SCH-2024932,Anusha Raj,20,Female,Semi-Urban,Private Aided,210000,83.8,82.5,70.2,0,0,70.9,76.72,0
+SCH-2024933,Frado Nazareth,22,Female,Semi-Urban,Government,75000,69.4,74.5,51.0,0,0,75.9,69.51,0
+SCH-2024934,Frado Chanda,18,Female,Semi-Urban,Private Aided,335000,86.4,80.2,44.6,1,1,72.8,79.71,1
+SCH-2024935,Jhalak Sane,21,Male,Semi-Urban,Government,200000,82.3,75.3,34.8,1,0,84.5,76.81,0
+SCH-2024936,Tamanna Gulati,22,Male,Semi-Urban,Private Aided,160000,67.8,70.7,65.3,0,0,77.5,72.79,0
+SCH-2024937,Januja Dasgupta,19,Male,Rural,Government,55000,86.4,87.9,58.7,1,0,98.0,91.69,1
+SCH-2024938,Sathvik Tiwari,19,Female,Semi-Urban,Private Aided,140000,82.7,71.2,50.7,1,0,87.9,86.86,1
+SCH-2024939,Lajita Shroff,20,Male,Rural,Government,105000,85.5,71.1,31.2,1,1,95.9,84.74,1
+SCH-2024940,Naveen Kanda,21,Female,Semi-Urban,Private Aided,215000,70.5,72.4,67.2,0,0,77.3,71.81,0
+SCH-2024941,Ijaya Srinivasan,19,Male,Rural,Government,115000,68.4,74.6,57.3,1,0,93.9,77.97,1
+SCH-2024942,Ayushman Kapadia,18,Male,Urban,Private Aided,190000,67.7,73.1,42.4,0,0,66.3,60.81,0
+SCH-2024943,Umang Boase,19,Male,Urban,Private Aided,300000,95.3,73.3,94.4,1,1,67.2,83.47,1
+SCH-2024944,Qabil Munshi,22,Male,Rural,Government,185000,82.1,66.2,54.2,1,1,88.9,85.7,1
+SCH-2024945,Advay Doshi,19,Female,Rural,Private Unaided,565000,63.1,69.8,86.4,1,0,59.9,70.43,0
+SCH-2024946,Anya Sekhon,20,Male,Rural,Government,330000,88.2,83.4,83.7,0,1,65.0,79.81,1
+SCH-2024947,Champak Gala,19,Female,Rural,Government,125000,76.1,80.9,68.5,1,0,90.0,83.63,1
+SCH-2024948,Nitara Nagy,19,Male,Urban,Government,245000,84.4,82.4,58.8,0,0,66.6,74.93,0
+SCH-2024949,Fariq Shenoy,24,Female,Urban,Private Aided,140000,93.0,87.8,56.3,0,1,76.2,81.94,1
+SCH-2024950,Ridhi Dhar,19,Female,Semi-Urban,Private Aided,175000,80.0,78.8,78.6,0,0,77.0,80.86,1
+SCH-2024951,Nisha Srivastava,19,Female,Rural,Government,70000,93.4,83.1,13.2,1,1,98.0,88.22,1
+SCH-2024952,Brijesh Vasa,20,Female,Semi-Urban,Private Aided,165000,77.4,74.8,30.5,0,0,70.1,71.15,0
+SCH-2024953,Wishi Bhandari,19,Male,Urban,Private Aided,165000,63.5,69.0,65.9,0,0,74.1,67.88,0
+SCH-2024954,Udarsh Hayer,22,Female,Semi-Urban,Government,70000,82.3,77.0,32.3,0,0,84.6,78.43,1
+SCH-2024955,Mohammed Konda,19,Female,Urban,Government,125000,82.6,86.7,61.8,0,1,75.9,79.53,1
+SCH-2024956,Urvi Dugal,21,Male,Semi-Urban,Private Unaided,570000,97.6,79.1,59.7,0,0,36.1,64.37,0
+SCH-2024957,Aarini Bassi,19,Female,Rural,Private Aided,680000,65.4,72.7,77.0,1,0,50.3,62.43,0
+SCH-2024958,Pranav Thaman,18,Male,Urban,Private Unaided,285000,75.1,67.2,77.8,0,1,60.0,70.55,0
+SCH-2024959,Darsh Zachariah,20,Female,Rural,Private Unaided,1000000,77.3,82.3,69.9,1,0,20.1,57.84,0
+SCH-2024960,Lucky Swaminathan,18,Male,Urban,Private Unaided,760000,76.9,77.0,69.2,0,1,26.4,56.58,0
+SCH-2024961,Girik Suri,18,Female,Rural,Private Unaided,175000,73.9,70.2,60.7,0,0,74.9,67.44,0
+SCH-2024962,Aayush Bali,18,Female,Rural,Private Aided,90000,78.2,74.5,45.8,0,0,83.1,74.15,0
+SCH-2024963,Baljiwan Garg,19,Male,Rural,Government,150000,55.3,66.2,50.2,0,1,79.1,62.25,0
+SCH-2024964,Hemal Dubey,20,Female,Semi-Urban,Government,290000,87.0,75.0,21.5,0,1,64.3,68.73,0
+SCH-2024965,Chanchal Chatterjee,22,Male,Semi-Urban,Private Aided,95000,73.9,77.2,36.8,1,0,89.4,79.79,1
+SCH-2024966,Chatresh Kale,19,Female,Semi-Urban,Government,130000,98.5,70.6,27.0,1,0,91.2,85.52,1
+SCH-2024967,Jeremiah Lata,20,Female,Rural,Government,110000,75.1,74.1,58.4,1,0,92.6,85.55,1
+SCH-2024968,Amara Konda,18,Male,Semi-Urban,Private Unaided,100000,72.8,93.7,75.7,0,0,82.2,79.61,1
+SCH-2024969,Ekalinga Dua,20,Male,Rural,Private Aided,155000,70.3,64.0,49.4,0,0,76.7,72.33,0
+SCH-2024970,Mugdha Buch,19,Male,Urban,Private Unaided,295000,59.7,69.4,73.2,0,0,60.6,61.29,0
+SCH-2024971,Mitesh Pillai,21,Female,Semi-Urban,Private Unaided,795000,89.2,73.2,88.0,0,1,18.1,66.4,0
+SCH-2024972,Bahadurjit Sagar,20,Female,Rural,Government,85000,69.8,73.7,46.2,1,0,93.5,82.89,1
+SCH-2024973,Divya Sengupta,20,Male,Semi-Urban,Private Unaided,355000,81.8,72.6,59.8,1,0,66.7,78.46,1
+SCH-2024974,Unnati Palan,19,Male,Semi-Urban,Private Unaided,445000,63.4,75.8,43.5,0,0,49.2,60.16,0
+SCH-2024975,Dhriti Contractor,19,Female,Semi-Urban,Government,70000,72.3,76.3,31.7,1,0,98.0,81.9,1
+SCH-2024976,Tanveer Tank,20,Male,Semi-Urban,Private Unaided,115000,78.1,69.5,65.2,0,0,75.5,74.62,0
+SCH-2024977,Charvi Basak,18,Female,Urban,Private Unaided,685000,67.7,86.8,57.5,0,1,21.5,51.64,0
+SCH-2024978,Nidhi Golla,19,Male,Rural,Government,95000,82.9,82.5,55.8,1,0,90.2,82.87,1
+SCH-2024979,Jyoti Wali,21,Female,Rural,Private Aided,480000,61.3,71.5,33.1,1,0,61.1,63.95,0
+SCH-2024980,Gaurav Korpal,21,Male,Rural,Private Aided,105000,69.3,66.1,34.5,1,0,97.3,75.23,0
+SCH-2024981,Jairaj Johal,18,Male,Urban,Private Aided,125000,65.8,79.9,58.6,0,0,79.4,73.86,0
+SCH-2024982,Advaith Pradhan,18,Female,Urban,Private Aided,340000,78.4,80.4,36.4,0,1,56.4,64.92,0
+SCH-2024983,Lohit Bera,18,Male,Rural,Government,80000,91.0,73.5,73.7,1,0,93.9,87.75,1
+SCH-2024984,Chandani Hari,20,Male,Rural,Private Aided,125000,63.3,77.2,48.1,1,0,93.4,79.06,1
+SCH-2024985,Qabil Varty,19,Male,Rural,Government,100000,82.3,64.1,56.2,1,0,98.0,84.43,1
+SCH-2024986,Faras Dixit,21,Female,Rural,Private Aided,125000,78.1,76.0,71.1,0,0,79.3,78.68,1
+SCH-2024987,Amol Panchal,20,Male,Urban,Private Aided,150000,56.8,76.8,76.7,0,0,77.0,69.53,0
+SCH-2024988,Nathaniel Chhabra,18,Female,Rural,Government,90000,77.3,73.2,80.3,1,0,93.2,86.63,1
+SCH-2024989,Rayaan Dubey,20,Male,Semi-Urban,Private Aided,390000,86.4,76.5,43.4,1,0,64.1,78.88,1
+SCH-2024990,Radha Narula,22,Female,Rural,Private Aided,110000,91.8,81.5,68.8,1,0,96.7,88.63,1
+SCH-2024991,Wishi Kalita,19,Male,Urban,Private Unaided,140000,99.5,82.1,71.6,1,0,81.8,89.27,1
+SCH-2024992,Amaira Sule,18,Male,Semi-Urban,Private Unaided,515000,80.6,68.2,44.0,0,0,38.9,58.71,0
+SCH-2024993,Ekani Dash,19,Male,Urban,Private Aided,170000,70.3,80.4,85.8,0,0,73.2,69.16,0
+SCH-2024994,Tanvi Dani,21,Female,Urban,Private Aided,165000,75.2,72.4,56.4,1,0,87.6,85.93,1
+SCH-2024995,Ojas Sarma,19,Female,Rural,Government,105000,83.6,94.0,80.1,0,0,81.7,79.04,1
+SCH-2024996,Michael Mital,23,Male,Rural,Government,70000,64.7,69.6,34.3,1,0,90.4,72.34,0
+SCH-2024997,Yochana Nadkarni,19,Female,Rural,Private Unaided,370000,75.3,74.5,67.9,1,1,75.9,75.18,0
+SCH-2024998,Vritti Nadkarni,18,Female,Semi-Urban,Private Unaided,390000,78.2,74.7,72.8,0,0,49.0,65.67,0
+SCH-2024999,Rachana Walia,21,Male,Semi-Urban,Private Aided,420000,94.0,84.2,66.7,0,0,56.7,78.06,1
+SCH-2025000,Triya Madan,19,Female,Semi-Urban,Private Aided,490000,76.2,78.9,93.6,0,0,41.3,64.29,0
+SCH-2025001,Darika Amble,18,Male,Semi-Urban,Private Unaided,175000,65.3,78.0,45.2,0,0,76.4,69.08,0
+SCH-2025002,Harini Aurora,19,Female,Urban,Private Unaided,105000,64.0,73.3,83.7,1,0,89.4,82.98,1
+SCH-2025003,Aarini Sampath,20,Female,Semi-Urban,Private Unaided,390000,96.8,84.8,50.7,0,1,54.4,74.94,0
+SCH-2025004,Aarini Oommen,18,Female,Urban,Private Unaided,50000,91.2,81.7,52.6,0,0,78.7,80.56,1
+SCH-2025005,Triya Dugal,20,Female,Rural,Government,75000,85.2,78.9,32.7,1,0,94.8,84.0,1
+SCH-2025006,Avni Swaminathan,22,Male,Urban,Private Unaided,265000,53.9,72.9,66.4,0,0,61.0,61.99,0
+SCH-2025007,Amrita Palan,22,Male,Rural,Private Aided,230000,68.0,70.8,60.6,1,0,80.9,77.29,1
+SCH-2025008,Bina Wali,18,Female,Rural,Government,50000,77.9,74.7,56.3,1,0,98.0,85.11,1
+SCH-2025009,Henry Narasimhan,18,Male,Urban,Private Aided,475000,78.6,79.4,33.6,1,0,59.4,71.44,0
+SCH-2025010,Neel Basu,21,Male,Semi-Urban,Private Aided,110000,91.1,85.1,39.6,0,1,81.4,84.13,1
+SCH-2025011,Kabir Shenoy,19,Female,Semi-Urban,Private Aided,330000,93.2,89.9,53.8,0,1,55.3,72.68,0
+SCH-2025012,Pallavi Hari,19,Female,Urban,Government,130000,75.4,71.7,32.3,1,0,84.6,77.91,1
+SCH-2025013,Mitali Dalal,18,Female,Urban,Private Aided,190000,75.9,62.7,43.5,0,1,74.8,66.99,0
+SCH-2025014,Chatura Gera,23,Male,Semi-Urban,Private Aided,65000,82.4,77.1,35.9,1,1,93.5,88.85,1
+SCH-2025015,Gaurang Bhargava,19,Female,Rural,Government,95000,67.9,75.4,67.1,0,0,79.8,70.77,0
+SCH-2025016,Xalak Kapoor,19,Male,Urban,Private Unaided,625000,80.7,87.1,64.6,0,0,34.9,63.37,0
+SCH-2025017,Gopal Soni,19,Female,Semi-Urban,Government,110000,74.4,89.2,39.7,0,0,79.7,74.59,0
+SCH-2025018,Naksh Narang,20,Female,Rural,Private Aided,145000,78.5,78.2,68.7,0,0,75.9,77.11,1
+SCH-2025019,Noah Wali,23,Female,Rural,Private Aided,205000,76.4,81.2,52.6,0,1,72.4,74.51,0
+SCH-2025020,Abeer Lala,21,Female,Semi-Urban,Private Unaided,660000,63.3,75.5,70.6,0,0,29.6,51.88,0
+SCH-2025021,Guneet Thakur,19,Female,Rural,Government,50000,66.7,75.0,51.8,0,0,90.3,77.23,1
+SCH-2025022,Arjun Soman,19,Male,Rural,Government,75000,73.8,83.1,5.0,1,0,96.3,77.9,1
+SCH-2025023,Isha Mishra,20,Female,Rural,Government,50000,72.8,85.5,52.8,0,0,85.2,78.72,1
+SCH-2025024,Ishani Padmanabhan,19,Female,Rural,Government,85000,73.2,72.5,41.5,1,0,96.5,79.93,1
+SCH-2025025,Patrick Nori,18,Female,Urban,Private Aided,50000,73.1,75.2,57.8,0,0,81.4,80.45,1
+SCH-2025026,Yasti Virk,20,Male,Semi-Urban,Private Aided,175000,77.7,72.9,70.8,0,1,71.5,76.02,0
+SCH-2025027,Bishakha Barad,19,Female,Semi-Urban,Government,100000,58.3,72.8,48.5,0,0,84.1,70.18,0
+SCH-2025028,Bhavani Tank,19,Female,Semi-Urban,Government,135000,61.7,69.9,43.9,1,0,85.1,76.87,0
+SCH-2025029,Vedant Mani,20,Male,Rural,Private Aided,160000,72.5,76.2,65.0,1,0,91.0,83.12,1
+SCH-2025030,Gaurav Luthra,23,Female,Urban,Private Aided,145000,63.7,81.2,85.6,0,0,75.8,68.25,0
+SCH-2025031,Daksh Ratta,18,Male,Urban,Private Aided,530000,83.5,82.4,56.9,1,0,53.9,72.25,0
+SCH-2025032,Maanav Bava,20,Male,Semi-Urban,Private Unaided,490000,92.4,75.7,84.2,0,0,43.9,73.25,0
+SCH-2025033,Atharv Bose,19,Female,Urban,Government,55000,70.4,65.0,54.2,0,0,80.0,71.21,0
+SCH-2025034,Yashasvi Gola,24,Female,Semi-Urban,Private Aided,455000,85.8,85.0,74.8,0,1,45.2,71.44,0
+SCH-2025035,Meghana Patla,18,Female,Semi-Urban,Private Aided,100000,76.6,78.2,49.3,0,0,83.7,74.36,0
+SCH-2025036,Sanaya Datta,19,Female,Semi-Urban,Private Aided,130000,69.9,77.9,38.8,0,0,73.5,68.47,0
+SCH-2025037,Omkaar Oak,20,Male,Urban,Private Unaided,475000,94.1,81.5,55.6,0,0,47.6,69.84,0
+SCH-2025038,Triya Thaker,18,Female,Urban,Government,90000,79.3,73.3,50.8,0,0,77.7,73.46,0
+SCH-2025039,Ishita Deep,21,Female,Semi-Urban,Private Aided,100000,77.8,77.3,43.7,0,0,81.0,74.06,0
+SCH-2025040,Logan Anne,20,Male,Semi-Urban,Private Unaided,555000,72.4,72.4,98.0,0,0,42.3,62.56,0
+SCH-2025041,Nathan Raju,19,Female,Rural,Government,310000,83.5,78.7,53.1,1,0,84.7,87.0,1
+SCH-2025042,Netra Sandhu,19,Female,Rural,Government,65000,83.2,79.3,16.2,1,1,98.0,84.9,1
+SCH-2025043,Aadhya Sunder,21,Female,Urban,Government,85000,75.8,76.6,68.9,1,0,91.6,83.99,1
+SCH-2025044,Balveer Dhingra,18,Female,Semi-Urban,Private Unaided,565000,74.3,76.6,37.0,0,0,38.2,54.52,0
+SCH-2025045,Naveen Sodhi,18,Female,Rural,Government,180000,61.4,81.8,66.4,0,0,81.4,71.11,0
+SCH-2025046,Victor Zacharia,18,Male,Urban,Private Aided,305000,76.5,77.1,52.8,0,0,61.3,65.99,0
+SCH-2025047,Vamakshi Sant,18,Female,Semi-Urban,Private Aided,145000,83.9,74.4,43.6,1,0,85.4,86.98,1
+SCH-2025048,Alexander Dewan,20,Male,Rural,Government,110000,65.5,75.7,48.7,0,0,76.5,66.35,0
+SCH-2025049,Dalaja Raman,19,Female,Rural,Government,70000,77.3,77.8,57.1,1,0,95.1,79.68,1
+SCH-2025050,Nathan Sami,19,Female,Rural,Private Unaided,175000,70.2,70.1,62.6,0,0,73.7,67.48,0
+SCH-2025051,Hemani Bal,18,Female,Urban,Private Aided,290000,78.4,79.2,55.6,0,0,62.4,71.88,0
+SCH-2025052,Chandani Sama,20,Male,Urban,Private Unaided,185000,83.0,68.7,79.4,0,1,71.4,77.09,1
+SCH-2025053,Shivansh Deep,21,Male,Rural,Government,115000,76.8,81.9,48.9,1,1,93.2,82.67,1
+SCH-2025054,Sanaya Golla,18,Male,Semi-Urban,Government,215000,99.1,93.4,11.7,1,0,77.7,85.78,1
+SCH-2025055,Arjun Acharya,20,Male,Urban,Private Unaided,1000000,70.0,74.0,55.0,0,0,5.0,44.6,0
+SCH-2025056,Abhiram Dixit,24,Male,Rural,Private Aided,440000,79.8,89.8,43.5,0,0,51.0,62.14,0
+SCH-2025057,Bhavika Rege,18,Male,Rural,Government,600000,68.1,74.4,25.0,0,0,35.2,48.62,0
+SCH-2025058,Advika Seshadri,18,Female,Urban,Private Unaided,250000,82.1,70.8,50.6,0,0,60.6,70.23,0
+SCH-2025059,David Dasgupta,21,Male,Rural,Private Aided,335000,63.2,72.1,56.6,1,0,73.9,69.06,0
+SCH-2025060,Zashil Singh,18,Male,Rural,Government,70000,85.2,80.4,41.4,0,0,84.3,83.63,1
+SCH-2025061,Warda Kulkarni,19,Female,Urban,Private Unaided,285000,88.0,86.1,66.7,1,0,74.3,84.92,1
+SCH-2025062,Agastya Sachar,22,Male,Rural,Government,110000,76.3,80.7,47.3,1,0,93.0,84.23,1
+SCH-2025063,Ayush Gour,19,Female,Semi-Urban,Private Aided,440000,69.8,84.7,54.8,0,0,46.2,62.9,0
+SCH-2025064,Samar Korpal,21,Female,Rural,Government,75000,56.1,74.2,8.9,1,0,98.0,74.91,0
+SCH-2025065,Mitesh Iyengar,19,Female,Urban,Private Unaided,390000,67.5,87.3,74.9,0,1,51.9,65.39,0
+SCH-2025066,Laksh Sehgal,19,Male,Semi-Urban,Government,125000,92.6,73.7,41.7,0,0,81.0,80.72,1
+SCH-2025067,Omya Char,19,Female,Urban,Private Unaided,375000,56.6,71.9,58.7,1,0,64.1,67.82,0
+SCH-2025068,Vivaan Toor,24,Female,Semi-Urban,Government,70000,79.5,75.8,44.2,0,0,83.9,78.17,1
+SCH-2025069,Upma Chauhan,20,Male,Semi-Urban,Private Aided,265000,90.3,82.6,87.9,0,0,63.4,75.27,0
+SCH-2025070,Anika Ratti,20,Male,Urban,Private Aided,190000,80.2,65.6,59.4,0,0,67.5,72.09,0
+SCH-2025071,Yamini Apte,21,Male,Rural,Private Aided,140000,68.4,85.0,43.2,0,0,83.9,74.56,0
+SCH-2025072,Yadavi Golla,20,Male,Urban,Private Aided,400000,68.3,66.2,60.1,0,0,56.1,60.18,0
+SCH-2025073,Fiyaz Gara,19,Male,Semi-Urban,Private Aided,135000,81.6,71.7,57.9,1,0,89.2,80.87,1
+SCH-2025074,Peter Babu,20,Female,Semi-Urban,Private Unaided,285000,63.4,70.8,90.8,1,0,74.5,74.45,0
+SCH-2025075,Atharv Contractor,20,Female,Urban,Private Aided,385000,53.5,74.5,47.1,1,0,63.3,60.17,0
+SCH-2025076,Zansi Vasa,18,Female,Rural,Private Aided,200000,77.3,82.2,58.5,0,0,69.1,79.3,1
+SCH-2025077,Zashil Cherian,19,Female,Semi-Urban,Government,130000,54.8,78.6,19.6,1,0,85.3,67.33,0
+SCH-2025078,Yamini Sachar,22,Male,Semi-Urban,Private Aided,260000,88.5,85.0,51.0,0,0,64.9,78.61,1
+SCH-2025079,Siddharth Taneja,18,Female,Semi-Urban,Private Aided,215000,77.2,63.0,81.0,1,0,89.0,84.0,1
+SCH-2025080,Om Wadhwa,20,Female,Semi-Urban,Private Unaided,640000,76.0,73.5,34.4,1,0,49.6,57.04,0
+SCH-2025081,Ishita Chahal,21,Male,Rural,Government,50000,86.1,84.0,63.2,1,0,92.6,87.26,1
+SCH-2025082,Orinder Gera,20,Male,Rural,Private Aided,160000,60.4,62.5,64.2,1,0,89.2,70.81,0
+SCH-2025083,Mekhala Pal,19,Female,Semi-Urban,Private Aided,55000,65.7,70.0,30.2,0,0,89.4,71.95,0
+SCH-2025084,Oliver Shankar,20,Male,Semi-Urban,Private Aided,560000,64.2,62.3,29.6,0,0,38.5,48.17,0
+SCH-2025085,Veer Walla,18,Female,Rural,Government,80000,89.3,80.5,50.4,0,0,86.0,84.8,1
+SCH-2025086,Gayathri Ravel,20,Female,Semi-Urban,Private Unaided,680000,82.9,75.8,80.5,0,0,30.7,59.99,0
+SCH-2025087,Chatura Tella,20,Female,Semi-Urban,Private Aided,90000,73.0,65.4,33.6,1,0,94.1,82.4,1
+SCH-2025088,Chandresh Shukla,18,Male,Semi-Urban,Government,130000,51.7,56.3,29.7,0,0,74.8,58.64,0
+SCH-2025089,Sachi Sodhi,22,Male,Semi-Urban,Private Aided,205000,59.4,66.4,52.1,1,0,85.2,73.98,0
+SCH-2025090,Manya Jayaraman,19,Male,Rural,Government,275000,65.4,64.9,75.5,1,0,77.8,77.14,1
+SCH-2025091,Megha Randhawa,20,Male,Urban,Private Unaided,770000,83.6,80.0,66.5,0,0,19.3,54.36,0
+SCH-2025092,Harinakshi Gara,18,Male,Semi-Urban,Government,85000,67.0,74.2,77.0,1,0,91.9,79.36,1
+SCH-2025093,Lohit Subramaniam,18,Male,Rural,Government,155000,46.2,72.0,39.0,1,0,94.7,72.22,0
+SCH-2025094,Benjamin Bhalla,21,Male,Semi-Urban,Private Aided,260000,81.6,76.9,41.7,0,0,60.3,66.96,0
+SCH-2025095,Chavvi Raval,19,Male,Urban,Private Aided,540000,99.5,86.8,39.3,1,0,49.3,72.5,0
+SCH-2025096,Gaurangi Buch,24,Female,Urban,Private Aided,305000,79.9,69.1,63.7,0,0,62.2,73.14,0
+SCH-2025097,Yatan Karpe,18,Female,Semi-Urban,Government,135000,68.3,70.8,33.1,1,0,84.3,74.26,0
+SCH-2025098,Vinaya Bumb,18,Female,Urban,Private Aided,205000,86.6,74.2,66.4,0,0,70.9,75.56,0
+SCH-2025099,Vinaya Hayre,18,Male,Rural,Private Aided,180000,79.0,86.3,33.8,1,0,91.5,84.35,1
+SCH-2025100,Falguni Soman,19,Female,Urban,Private Aided,450000,68.2,68.5,60.3,0,0,47.3,53.95,0
+SCH-2025101,Champak Agrawal,21,Male,Rural,Private Aided,135000,62.1,66.7,68.6,1,0,91.1,76.65,0
+SCH-2025102,Keya Prasad,18,Male,Rural,Private Aided,275000,60.6,69.6,56.5,1,0,79.0,69.66,0
+SCH-2025103,Jairaj Kata,20,Female,Semi-Urban,Government,125000,59.4,65.8,35.9,1,0,82.7,67.36,0
+SCH-2025104,Eshana Bahri,19,Male,Rural,Government,105000,65.0,80.7,51.2,0,0,81.8,70.41,0
+SCH-2025105,Jacob Atwal,19,Female,Urban,Private Unaided,560000,57.5,80.7,98.0,0,1,45.3,60.92,0
+SCH-2025106,Rayaan Saran,18,Female,Semi-Urban,Private Aided,95000,75.2,71.1,40.3,0,0,78.2,76.42,0
+SCH-2025107,Januja Munshi,20,Male,Semi-Urban,Private Aided,245000,71.7,76.0,30.8,0,0,68.9,63.52,0
+SCH-2025108,Chakradhar Karpe,19,Female,Semi-Urban,Private Aided,65000,64.1,76.1,33.7,0,0,80.2,71.52,0
+SCH-2025109,Nitara Nagi,23,Male,Rural,Government,145000,77.4,75.6,48.1,1,0,92.0,76.0,0
+SCH-2025110,Advay Sankaran,18,Male,Urban,Government,70000,57.4,79.3,40.0,1,0,92.9,71.69,0
+SCH-2025111,Brijesh Ray,20,Male,Semi-Urban,Government,225000,87.7,76.8,54.8,1,1,81.1,85.6,1
+SCH-2025112,Aarini Narang,21,Female,Semi-Urban,Private Aided,175000,78.9,83.9,51.5,0,0,72.0,71.87,0
+SCH-2025113,Champak Soni,21,Male,Rural,Private Aided,110000,84.6,66.0,43.4,0,0,80.8,76.33,0
+SCH-2025114,Chanchal Bhavsar,24,Male,Semi-Urban,Private Unaided,560000,87.1,84.6,57.7,1,0,52.0,72.17,0
+SCH-2025115,Anusha Balay,18,Male,Semi-Urban,Private Unaided,555000,73.2,84.6,86.6,0,0,37.0,68.5,0
+SCH-2025116,Lekha Tailor,20,Female,Rural,Private Aided,75000,79.6,73.9,79.1,1,0,98.0,86.07,1
+SCH-2025117,Kai Panchal,19,Male,Urban,Private Unaided,1000000,60.2,78.2,85.1,0,0,5.0,43.08,0
+SCH-2025118,Girindra Chaudhari,20,Male,Rural,Private Aided,280000,87.1,70.5,53.9,0,0,65.3,73.72,0
+SCH-2025119,Saksham Mahal,20,Male,Urban,Government,70000,79.5,82.4,33.8,0,0,82.4,78.46,1
+SCH-2025120,Pushti Uppal,18,Male,Rural,Government,75000,81.5,79.2,60.0,0,0,88.6,81.96,1
+SCH-2025121,Vedika Krishnamurthy,18,Female,Semi-Urban,Government,50000,94.3,79.4,68.5,0,0,85.8,83.13,1
+SCH-2025122,Frado Dar,18,Female,Semi-Urban,Private Unaided,560000,76.2,76.0,79.2,0,0,39.5,65.31,0
+SCH-2025123,Ayushman Ghose,18,Female,Rural,Private Aided,140000,75.5,82.7,63.5,0,0,77.9,77.48,1
+SCH-2025124,Hemani Parsa,21,Female,Rural,Private Aided,95000,88.6,78.8,28.0,0,0,84.0,78.65,1
+SCH-2025125,Bina Virk,19,Male,Urban,Private Aided,215000,80.7,84.2,81.5,0,1,66.6,77.0,0
+SCH-2025126,Jonathan Mohanty,22,Female,Urban,Private Aided,380000,72.8,82.2,58.5,1,0,68.7,76.16,0
+SCH-2025127,Gabriel Chawla,18,Female,Semi-Urban,Private Aided,105000,73.7,78.4,58.8,1,0,89.3,82.22,1
+SCH-2025128,Karan Dyal,21,Female,Semi-Urban,Private Unaided,305000,95.2,82.1,48.3,0,0,55.9,72.39,0
+SCH-2025129,Gaurangi Bains,19,Female,Semi-Urban,Private Aided,85000,87.2,86.5,54.8,0,1,82.5,86.88,1
+SCH-2025130,Chandani Krish,18,Male,Rural,Government,170000,79.8,86.2,61.3,0,0,74.7,77.34,1
+SCH-2025131,Chaaya Gupta,19,Female,Urban,Private Unaided,520000,67.5,77.9,47.4,0,0,43.9,59.45,0
+SCH-2025132,Jasmit Randhawa,21,Female,Rural,Private Aided,230000,68.3,64.8,31.6,1,0,82.4,72.32,0
+SCH-2025133,Yatin Bala,18,Male,Urban,Private Unaided,450000,83.2,81.5,77.5,0,0,43.4,67.04,0
+SCH-2025134,Leela Maharaj,19,Male,Urban,Private Unaided,265000,64.2,74.8,87.0,0,0,65.4,70.72,0
+SCH-2025135,Sachi Bail,19,Male,Rural,Private Aided,170000,69.1,73.6,65.0,0,0,83.7,77.01,1
+SCH-2025136,Vincent Bhandari,19,Female,Rural,Private Aided,400000,60.8,73.0,79.6,0,0,60.1,62.74,0
+SCH-2025137,Gunbir Sen,22,Male,Urban,Private Unaided,610000,61.7,69.3,54.3,0,0,27.6,49.49,0
+SCH-2025138,Chavvi Om,18,Female,Urban,Private Unaided,295000,66.5,67.6,98.0,0,0,62.8,70.32,0
+SCH-2025139,Ganga Sarraf,22,Female,Rural,Government,65000,59.6,67.5,43.7,1,1,98.0,80.71,1
+SCH-2025140,Elijah Bath,20,Male,Rural,Government,140000,60.7,69.7,28.1,1,0,95.1,75.78,0
+SCH-2025141,Advay Tank,19,Female,Urban,Private Unaided,1000000,64.4,68.7,82.8,0,0,5.0,46.15,0
+SCH-2025142,Warjas Chakraborty,19,Male,Urban,Private Aided,250000,88.3,78.4,85.3,0,0,67.6,79.43,1
+SCH-2025143,Ekantika Om,21,Female,Semi-Urban,Private Aided,115000,89.0,80.6,48.9,0,1,79.9,82.03,1
+SCH-2025144,Onkar Varughese,19,Female,Urban,Private Aided,150000,62.8,78.2,43.7,1,0,82.6,75.7,0
+SCH-2025145,Urmi Mukherjee,19,Male,Rural,Government,110000,77.1,86.3,31.2,1,0,92.3,82.69,1
+SCH-2025146,Eiravati Vasa,20,Female,Semi-Urban,Private Aided,140000,82.1,83.3,58.8,1,0,90.5,87.8,1
+SCH-2025147,Alka Chad,22,Female,Rural,Private Unaided,495000,91.8,79.6,60.8,1,0,62.0,80.6,1
+SCH-2025148,Chaaya Vig,20,Male,Rural,Government,50000,71.1,76.4,38.4,1,0,98.0,79.86,1
+SCH-2025149,Anthony Dave,19,Female,Urban,Government,105000,69.7,71.1,75.2,0,0,79.5,75.89,0
+SCH-2025150,Triya Mistry,22,Female,Semi-Urban,Private Aided,125000,74.8,65.2,31.7,1,0,90.2,79.51,1
+SCH-2025151,Radhika Manne,19,Male,Semi-Urban,Government,105000,55.6,68.7,64.7,1,0,87.6,75.66,0
+SCH-2025152,Jeet Warrior,18,Female,Rural,Government,140000,61.5,79.0,86.7,1,0,88.9,79.26,1
+SCH-2025153,Hredhaan Sodhi,18,Male,Urban,Private Unaided,330000,73.5,69.6,81.3,0,0,55.3,71.72,0
+SCH-2025154,Shivani Aggarwal,19,Female,Rural,Private Unaided,160000,68.4,72.6,74.0,0,0,80.1,73.22,0
+SCH-2025155,Jackson Majumdar,18,Female,Semi-Urban,Government,50000,71.2,73.3,42.8,1,1,98.0,83.76,1
+SCH-2025156,Falguni Sundaram,19,Male,Semi-Urban,Private Unaided,490000,78.7,72.8,70.3,1,0,59.6,68.33,0
+SCH-2025157,Osha Jhaveri,19,Female,Urban,Private Aided,230000,66.4,80.0,58.5,0,0,68.6,68.66,0
+SCH-2025158,Urvi Sarraf,19,Female,Rural,Government,80000,73.0,68.6,44.0,0,0,82.1,70.49,0
+SCH-2025159,Pratyush Ben,21,Female,Rural,Government,110000,88.8,82.7,19.1,1,1,92.8,87.59,1
+SCH-2025160,Aarna Mane,19,Female,Semi-Urban,Private Aided,60000,83.0,82.1,43.8,0,1,79.9,81.11,1
+SCH-2025161,Faras Contractor,19,Male,Rural,Government,50000,68.2,84.8,31.3,0,0,83.6,70.85,0
+SCH-2025162,Panini Ravi,19,Female,Rural,Government,90000,70.0,80.1,60.1,0,0,82.6,78.11,1
+SCH-2025163,Tejas Padmanabhan,19,Male,Urban,Private Unaided,340000,65.5,72.0,81.7,0,0,56.7,64.1,0
+SCH-2025164,Nitesh Chaudry,21,Female,Semi-Urban,Government,80000,73.2,75.3,66.3,1,0,90.2,82.93,1
+SCH-2025165,Teerth Wagle,19,Male,Rural,Private Aided,165000,57.7,67.2,48.3,1,0,88.8,76.94,0
+SCH-2025166,Dayita Gopal,19,Female,Semi-Urban,Private Aided,335000,68.4,79.2,20.1,0,0,63.8,61.34,0
+SCH-2025167,Jagrati Yadav,21,Female,Urban,Private Unaided,375000,64.7,71.9,74.2,0,0,56.5,64.45,0
+SCH-2025168,Ekansh Prakash,21,Male,Semi-Urban,Government,205000,57.0,86.3,60.4,0,0,70.8,67.91,0
+SCH-2025169,Zansi Sundaram,22,Female,Semi-Urban,Private Aided,180000,62.0,73.7,43.8,0,0,72.4,64.93,0
+SCH-2025170,Laban Prabhu,19,Male,Rural,Government,110000,66.7,70.7,54.0,0,0,81.9,75.23,0
+SCH-2025171,Aarini Hayer,20,Male,Rural,Private Aided,255000,62.0,82.6,47.5,1,0,84.9,73.99,0
+SCH-2025172,Finn Koshy,19,Female,Rural,Private Aided,160000,91.4,84.8,59.7,1,1,94.0,92.25,1
+SCH-2025173,Leela Varughese,20,Male,Semi-Urban,Private Aided,130000,88.8,79.9,52.7,0,1,76.0,77.49,1
+SCH-2025174,Qabil Sidhu,18,Male,Rural,Government,105000,79.6,80.8,49.4,1,0,93.9,85.51,1
+SCH-2025175,Chatresh Contractor,19,Female,Urban,Government,70000,62.8,75.2,69.5,1,0,93.7,80.34,1
+SCH-2025176,Ekavir Parsa,19,Male,Semi-Urban,Private Aided,200000,77.7,73.8,15.8,0,0,69.8,68.29,0
+SCH-2025177,Sneha Dubey,19,Female,Urban,Private Aided,165000,87.7,75.7,36.2,0,0,71.5,75.98,0
+SCH-2025178,Amol Khurana,19,Female,Urban,Private Unaided,435000,60.3,79.0,69.2,0,0,48.4,61.45,0
+SCH-2025179,Darsh Sengupta,20,Male,Urban,Government,50000,76.0,80.0,50.9,1,1,89.9,81.8,1
+SCH-2025180,Ganga Khurana,21,Male,Semi-Urban,Government,65000,92.5,93.0,79.4,0,0,78.3,90.96,1
+SCH-2025181,Amara Khanna,19,Female,Rural,Government,265000,82.2,70.7,14.5,1,0,81.4,76.48,0
+SCH-2025182,Dipta Chand,19,Male,Rural,Private Aided,280000,70.4,88.4,27.9,0,0,61.9,64.44,0
+SCH-2025183,Anita Wali,18,Male,Rural,Private Unaided,680000,91.3,91.7,73.2,0,1,36.5,70.34,0
+SCH-2025184,Gaurangi Bansal,20,Male,Rural,Private Unaided,770000,70.2,76.7,66.9,0,0,16.5,50.16,0
+SCH-2025185,Aarnav Loyal,19,Male,Rural,Private Aided,250000,84.0,70.6,37.0,0,0,66.8,73.33,0
+SCH-2025186,Upadhriti Dhawan,20,Male,Rural,Private Unaided,400000,74.0,67.0,81.4,1,0,62.0,76.22,0
+SCH-2025187,Chanchal Chandra,19,Male,Semi-Urban,Government,70000,55.8,69.1,78.8,1,0,94.8,79.6,1
+SCH-2025188,Parth Bhatt,18,Male,Urban,Private Unaided,195000,48.6,71.8,70.4,0,0,67.8,62.53,0
+SCH-2025189,Brijesh Nagy,18,Male,Rural,Private Aided,285000,73.7,68.5,53.5,1,0,75.7,73.21,0
+SCH-2025190,Jackson Chatterjee,21,Male,Rural,Government,110000,79.3,72.0,80.2,1,0,89.1,82.29,1
+SCH-2025191,Ishanvi Sane,20,Male,Rural,Government,295000,64.2,69.7,37.0,1,0,82.8,71.06,0
+SCH-2025192,Sara Goda,18,Male,Urban,Private Unaided,470000,53.2,67.1,58.2,0,1,46.7,53.56,0
+SCH-2025193,Peter Minhas,18,Male,Urban,Private Unaided,385000,84.3,82.6,34.8,0,0,55.6,70.31,0
+SCH-2025194,Noah Kala,19,Male,Rural,Government,110000,70.5,64.8,66.0,1,0,89.8,77.66,1
+SCH-2025195,Adya Balasubramanian,21,Female,Rural,Government,85000,74.6,77.4,36.8,0,0,79.1,68.5,0
+SCH-2025196,Leela Mukhopadhyay,18,Female,Rural,Government,155000,78.5,84.1,48.8,1,1,90.2,83.11,1
+SCH-2025197,Oeshi Barman,19,Female,Rural,Government,90000,88.5,63.0,25.9,0,0,87.6,79.26,1
+SCH-2025198,Anthony Kala,19,Female,Urban,Private Unaided,395000,67.3,73.1,78.6,0,0,55.1,66.41,0
+SCH-2025199,Fiyaz Saini,19,Female,Urban,Private Unaided,935000,59.1,67.6,54.9,0,0,11.6,42.4,0
+SCH-2025200,Veer Zacharia,19,Male,Semi-Urban,Private Aided,335000,83.8,73.7,38.0,1,0,74.7,79.96,1
